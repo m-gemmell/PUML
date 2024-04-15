@@ -1,13 +1,12 @@
 ---
-title: "ATTRIBUTES"
+title: "Attributes"
 editor: 
   markdown: 
     wrap: sentence
 ---
-![](images/primeval_deities.png){width=50% fig-align="center"}
 
-There are four attributes for characters; EYES, MOUTH, LIMBS, and HEART.
-Whenever a player controlled character is going to make an action they roll 2D6 and add the modifier of the relevant attribute.
+There are four attributes for characters; EYES, TEETH, LIMBS, and HEART.
+Whenever a player controlled character carried out an action they roll 2D6 and add the modifier of the relevant attribute. This is known as rolling +ATTRIBUTE (+EYES, +TEETH, +LIMBS, or +HEART)
 This determines how successful they are.
 
 - 6 or less: Failure
@@ -17,12 +16,12 @@ This determines how successful they are.
 
 An action is any task or activity the player wishes the character to do that is considered risky or has a strong element of chance.
 Most activities inside combat count as actions.
-Outside combat the majority of tasks will be handled with narration rather than rolls.
+Outside combat trivial tasks will be handled with narration rather than rolls.
 
 The attribute chosen for an action is initially chosen by the player performing the action.
 If the referee is not happy with the choice the player can attempt to further explain, change the action to fit the attribute, or be content in the referee choosing a more appropriate attribute.
 
-## The attributes
+## The Attributes
 
 The four attributes as tied to the four [Primeval deities](https://m-gemmell.github.io/Primeval_Deities_FIST/). 
 Conveniently they are also analogs of the four attributes in FIST so FIST traits can be used in PUML and vice versa.
@@ -41,21 +40,49 @@ It is clever and loves to scheme.
 
 You can roll __+EYES__ for assessing and manipulating a situation.
 
+These include:
+
+- Knowledge-based tasks
+- Tactical manoeuvres
+- Technical operations
+  - E.g engineering, cyber security, medical response, and controlling machinery
+- Reconnaissance & Research
+- Imitating and appreciating the arts
+- Astral powers
+
 ### TEETH
 
 [Tartarus](https://m-gemmell.github.io/Primeval_Deities_FIST/tartarus.html) is the deity of the earth.
-Its mouths are the entrances into its domain (The DOT).
+Its mouths are the entrances into its domain and its prison, The DOT.
 It is angry and destructive.
 
-You can roll __+TEETH__ for bouts of violence and rage.
+You can roll __+TEETH__ for bouts of strength, violence, or rage.
+
+These include:
+
+- Strength-based tasks
+- Aggressive manoeuvres
+- Destruction
+- Intimidation
+- Freeing the imprisoned
+- Earth and fire powers
 
 ### LIMBS
 
 [Proteus](https://m-gemmell.github.io/Primeval_Deities_FIST/proteus.html) is the deity of water.
 Its limbs represent how it reaches into and shapes living systems whilst in turn being shaped by them.
-It is calm and flowing.
+It is adaptable, calm, and flowing.
 
 You can roll __+LIMBS__ for fast and fluid movements.
+
+These include:
+
+- Dexterity-based tasks
+- Reflexive manoeuvres
+- Use of steady hands and body
+- Blending in
+- Going with the flow
+- Water powers
 
 ### BRAIN
 
@@ -65,3 +92,11 @@ It is social and mystical.
 
 You can roll __+BRAIN__ for human and paranormal interactions.
 
+These include:
+
+- Charisma-based tasks
+- Diplomatic manoeuvres
+- Leadership and persuasion
+- Implementation of unique and creative ideas
+- Unification
+- Life and mind powers

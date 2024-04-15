@@ -17,7 +17,7 @@ website:
     left:
       - text: "Overview"
         href: index.qmd
-      - text: "ATTRIBUTES"
+      - text: "Attributes"
         href: ATTRIBUTES.qmd
 ###Navbar right
     right:
@@ -44,7 +44,7 @@ website:
       align: left
       contents:
         - href: index.qmd
-    - id: ATTRIBUTES
+    - id: Attributes
       title: "Overview"
       style: "floating"
       align: left

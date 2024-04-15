@@ -6,13 +6,8 @@ editor:
 ---
 ![](images/primeval_deities.png){width=50% fig-align="center"}
 
-This is a website to host my PUML rules, a mod of theFIST rpg by CLAYMORE - https://claymorerpgs.itch.io/.
+This is a website to host my PUML rules, a mod of the FIST rpg by CLAYMORE - https://claymorerpgs.itch.io/.
 
-Please use these materials as you would like.
-You can be completely loyal and base your world on the [alternate history](/history.qmd) of this earth.
-You can add the factions into your world and use some of my [missions](missions.qmd).
-You can use various stat blocks such as the [TARATARUS RAIDER](/Tartarus/DOT_raiders.qmd#raider) and reskin them as one of your factions.
-Use the contents as you will in your own game.
 
 ## Contact
 

@@ -4,7 +4,6 @@ editor:
   markdown: 
     wrap: sentence
 ---
-
 There are four attributes for characters; EYES, TEETH, LIMBS, and HEART.
 Whenever a player controlled character carried out an action they roll 2D6 and add the modifier of the relevant attribute. This is known as rolling +ATTRIBUTE (+EYES, +TEETH, +LIMBS, or +HEART)
 This determines how successful they are.

@@ -1,0 +1,22 @@
+---
+title: "Rolling"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+Most of the dice used in PUML are six sided dice with the number 1, 2, 3, 4, 5, & 6 on their faces, known as a D6. Their are many way to roll one or a combination of D6s.
+
+- D2: Divide the roll by 3 and round up.
+- D3: Divide the roll by 2 and round up.
+- D6: The number shown on the dice.
+- 2D6: Sum the roll of the 2 dice.
+- 2D6+X: Sum the roll of the 2 dice and add X.
+- D66: Roll 2 D6s in order and combine the numbers to get a 2 digit number e.g. a 1 then a 4 makes 14.
+  - There are 6X6 (36) different numbers starting at 11 and ending at 66
+- D666: Roll 3 D6s in order and combine the numbers to get a 3 digit number e.g. a 2 then a 4 followed by a 6 makes 246.
+  - There are 6X6X6 (216) different numbers starting at 11 and ending at 666
+
+
+
+

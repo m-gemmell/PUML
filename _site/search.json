@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "ATTRIBUTES.html",
+    "href": "ATTRIBUTES.html",
+    "title": "Attributes",
+    "section": "",
+    "text": "There are four attributes for characters; EYES, TEETH, LIMBS, and HEART. Whenever a player controlled character carried out an action they roll 2D6 and add the modifier of the relevant attribute. This is known as rolling +ATTRIBUTE (+EYES, +TEETH, +LIMBS, or +HEART) This determines how successful they are.\nAn action is any task or activity the player wishes the character to do that is considered risky or has a strong element of chance. Most activities inside combat count as actions. Outside combat trivial tasks will be handled with narration rather than rolls.\nThe attribute chosen for an action is initially chosen by the player performing the action. If the referee is not happy with the choice the player can attempt to further explain, change the action to fit the attribute, or be content in the referee choosing a more appropriate attribute."
+  },
+  {
+    "objectID": "ATTRIBUTES.html#the-attributes",
+    "href": "ATTRIBUTES.html#the-attributes",
+    "title": "Attributes",
+    "section": "The Attributes",
+    "text": "The Attributes\nThe four attributes as tied to the four Primeval deities. Conveniently they are also analogs of the four attributes in FIST so FIST traits can be used in PUML and vice versa.\n\nEYES = TACTICAL\nTEETH = FORCEFUL\nLIMBS = REFLEXIVE\nBRAIN = CREATIVE\n\n\nEYES\nNyxmera is the deity of the sky. Its eyes are the sun, stars, planets, and moons in the sky. NYXMERA loves to watch, enjoying drama and comedy. It is clever and loves to scheme.\nYou can roll +EYES for assessing and manipulating a situation.\nThese include:\n\nKnowledge-based tasks\nTactical manoeuvres\nTechnical operations\n\nE.g engineering, cyber security, medical response, and controlling machinery\n\nReconnaissance & Research\nImitating and appreciating the arts\nAstral powers\n\n\n\nTEETH\nTartarus is the deity of the earth. Its mouths are the entrances into its domain and its prison, The DOT. It is angry and destructive.\nYou can roll +TEETH for bouts of strength, violence, or rage.\nThese include:\n\nStrength-based tasks\nAggressive manoeuvres\nDestruction\nIntimidation\nFreeing the imprisoned\nEarth and fire powers\n\n\n\nLIMBS\nProteus is the deity of water. Its limbs represent how it reaches into and shapes living systems whilst in turn being shaped by them. It is adaptable, calm, and flowing.\nYou can roll +LIMBS for fast and fluid movements.\nThese include:\n\nDexterity-based tasks\nReflexive manoeuvres\nUse of steady hands and body\nBlending in\nGoing with the flow\nWater powers\n\n\n\nBRAIN\nGaia is the deity of life. Its brain is the unity of all life, creating a hyperorganism. It is social and mystical.\nYou can roll +BRAIN for human and paranormal interactions.\nThese include:\n\nCharisma-based tasks\nDiplomatic manoeuvres\nLeadership and persuasion\nImplementation of unique and creative ideas\nUnification\nLife and mind powers"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Overview",
     "section": "",
-    "text": "This is a website to host my PUML rules, a mod of theFIST rpg by CLAYMORE - https://claymorerpgs.itch.io/.\nPlease use these materials as you would like. You can be completely loyal and base your world on the alternate history of this earth. You can add the factions into your world and use some of my missions. You can use various stat blocks such as the TARATARUS RAIDER and reskin them as one of your factions. Use the contents as you will in your own game."
+    "text": "This is a website to host my PUML rules, a mod of the FIST rpg by CLAYMORE - https://claymorerpgs.itch.io/."
   },
   {
     "objectID": "index.html#contact",
