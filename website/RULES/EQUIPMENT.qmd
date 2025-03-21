@@ -1,0 +1,163 @@
+---
+title: "EQUIPMENT"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## **WEAPONS**
+
+**Weapons** can be used to hurt and **Damage** other characters and objects.
+Action rolls are always required to deal **Damage**.
+When dealing **Damage** roll the specified **Damage Dice** and add any base **Damage**. 
+
+Rolling a 4 for the **Dice** of a **Hand cannon (1D6+1 DAMAGE)** would deal **5 DAMAGE**.
+
+**Damage Dice** are always **D6s** and some weapons only deal base **Damage** or none at all.
+
+**Weapons** can also be used creatively, limited by the type of weapon it is.
+A light machine gun could be used to suppress fire whilst a blade could be used to cut a rope or cable.
+
+## **ARMOR**
+
+When a character is dealt **Damage** they **reduce** the **Damage** amount by their total **Armor** amount.
+
+## **ACCESSORY**
+
+Some **Equipment** have the **Accessory** property.
+If appropriately narrated an **Accessory** can be used to negate all **Damage** from one source.
+The **Accessory** is then **destroyed**. 
+
+**PCs** and **NPCs** can use **Accessories**.
+
+## **EQUIPMENT DURABILITY**
+
+**Equipment**, such as **Weapons** and **Armor**, have 3 **Durability** states.
+
+-   **GOOD:** The **Equipment** is in a good state.
+
+-   **DAMAGED:** The **Equipment** has been damaged.
+    This may occur from a complication in combat or otherwise.
+    The weapon functions as normal but is close to a **Broken** state.
+
+-   **BROKEN:** The **Equipment** is irrevocably **Broken**.
+    You can no longer use the **Equipment** and it is impossible to fix.
+    Normally only **Damaged Equipment** can become **Broken** but a severe complication may cause a piece of **Equipment** to go straight from **Good** to **Broken**.
+
+**Broken equipment** can be repaired with the correct gear or through a **Rendezvous point**.
+**Broken** pieces of **Equipment** remain **Broken** between missions unless it is a trait item, in which case it is automatically repaired to **Good**.
+
+## **VEHICLES**
+
+**VEHICLES** can be driven by any character as long as they have the keys/codes or can hotwire/hack it.
+
+The only stats **VEHICLES** have are **HP** and **ARMOR**.
+Once a **vehicle** reaches **0HP** it is no longer usable.
+The capabilities of a vehicle beyond these stats are up to the referee and players.
+
+## **MISC**
+
+-   **EQUIPPED WEAPONS:** Only one weapon can be equipped at a time.
+
+-   **EQUIPPED ARMOR:** Only one main piece of armor can be equipped at a time.
+
+-   **EQUIPPED HEADGEAR:** Only one piece of headgear can be equipped at a time.
+
+-   **WORN GEAR:** As much gear can be worn as makes sense.
+
+-   **TRAIT & BELIEF GEAR:** Any of these items that are used/broken are replaced at the start of a new mission.
+    They do not count towards encumbrance.
+
+**ENCUMBRANCE:** 10 total extra items (non trait or belief gear) can be carried at any one time by each character.
+
+## __EQUPIMENT TABLES__
+
+The Below equipment tables are from the [FIST ULTRA EDITION](https://claymorerpgs.itch.io/fist)
+
+## **WEAPONS**
+
+|      |                      |              |      |                     |              |
+|------|----------------------|--------------|------|---------------------|--------------|
+| 11\. | Small blunt          | 3 DAMAGE     | 41\. | Pump-action shotgun | 1D6+1 DAMAGE |
+| 12\. | Large blunt          | 1D6 DAMAGE   | 42\. | Light machine gun   | 1D6+1 DAMAGE |
+| 13\. | Small blade          | 3 DAMAGE     | 43\. | Sword               | 1D6+1 DAMAGE |
+| 14\. | Large blade          | 1D6 DAMAGE   | 44\. | Spear               | 1D6+1 DAMAGE |
+| 15\. | Light hand           | 3 DAMAGE     | 45\. | Large Axe           | 1D6+1 DAMAGE |
+| 16\. | Heavy hand           | 1D6 DAMAGE   | 46\. | Large hammer        | 1D6+1 DAMAGE |
+| 21\. | Small ranged         | 3 DAMAGE     | 51\. | Sniper rifle        | 1D6+2 DAMAGE |
+| 22\. | Whip                 | 1D6 DAMAGE   | 52\. | Rocket launcher     | 1D6+2 DAMAGE |
+| 23\. | Bow                  | 1D6 DAMAGE   | 53\. | Heavy machine gun   | 1D6+2 DAMAGE |
+| 24\. | Pistol               | 1D6 DAMAGE   | 54\. | Heavy misc.         | 1D6+2 DAMAGE |
+| 25\. | Machine pistol       | 1D6 DAMAGE   | 55\. | Energy blade        | 1D6+2 DAMAGE |
+| 26\. | Submachine gun       | 1D6 DAMAGE   | 56\. | Concussion grenade  | 1D6 DAMAGE   |
+| 31\. | Carbine              | 1D6 DAMAGE   | 61\. | Frag grenade        | 1D6+1 DAMAGE |
+| 32\. | Hand cannon          | 1D6+1 DAMAGE | 62\. | Small bomb          | 1D6+2 DAMAGE |
+| 33\. | Bolt-action rifle    | 1D6+1 DAMAGE | 63\. | Large bomb          | 2D6 DAMAGE   |
+| 34\. | Semi-automatic rifle | 1D6+1 DAMAGE | 64\. | Anomalous weapon    | 2D6 DAMAGE   |
+| 35\. | Assault rifle        | 1D6+1 DAMAGE | 65\. | Ultra-shotgun       | 2D6 DAMAGE   |
+| 36\. | Break-action shotgun | 1D6+1 DAMAGE | 66\. | FUBAR blaster       | 3D6 DAMAGE   |
+
+## **ARMOR**
+
++-----+-------------------+---------------------+------+-------------------+---------+
+| 1\. | Civilian clothing | 0 ARMOR             | 7\.  | Standard fatigues | 0 ARMOR |
++-----+-------------------+---------------------+------+-------------------+---------+
+| 2\. | Combat shield     | 0 ARMOR (accessory) | 8\.  | Tactical clothing | 1 ARMOR |
++-----+-------------------+---------------------+------+-------------------+---------+
+| 3\. | Riot shield       | 1 ARMOR             | 9\.  | Bulletproof vest  | 1 ARMOR |
+|     |                   |                     |      |                   |         |
+|     |                   | (equip as weapon)   |      |                   |         |
++-----+-------------------+---------------------+------+-------------------+---------+
+| 4\. | Heavy riot shield | 2 ARMOR             | 10\. | Exoskeleton frame | 1 ARMOR |
+|     |                   |                     |      |                   |         |
+|     |                   | (equip as weapon)   |      |                   |         |
++-----+-------------------+---------------------+------+-------------------+---------+
+| 5\. | Helmet            | (accessory)         | 11\. | Ceramic plate     | 2 ARMOR |
++-----+-------------------+---------------------+------+-------------------+---------+
+| 6\. | Civilian clothing | 0 ARMOR             | 12\. | Power armor       | 2 ARMOR |
++-----+-------------------+---------------------+------+-------------------+---------+
+
+## **VEHICLES**
+
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+| 11\. | Bike | 3 HP, 0 ARMOR | 41\. | Gun truck | 12 HP, 3 ARMOR |
+| 12\. | Hang glider | 3 HP, 0 ARMOR | 42\. | Fighter aircraft | 12 HP, 1 ARMOR |
+| 13\. | Jet ski | 3 HP, 1 ARMOR | 43\. | Helicopter | 16 HP, 1 ARMOR |
+| 14\. | ATV/snowmobile | 3 HP, 2 ARMOR | 44\. | Work vehicle | 16 HP, 2 ARMOR |
+| 15\. | Small boat | 6 HP, 1 ARMOR | 45\. | Large boat | 16 HP, 2 ARMOR |
+| 16\. | Motorcycle | 6 HP, 1 ARMOR | 46\. | Self-propelled artillery | 16 HP, 3 ARMOR |
+| 21\. | Dirtbike | 6 HP, 2 ARMOR | 51\. | Heavy aircraft | 18 HP, 2 ARMOR |
+| 22\. | Sandrail | 8 HP, 0 ARMOR | 52\. | Mech frame | 18 HP, 2 ARMOR |
+| 23\. | Civilian car | 8 HP, 1 ARMOR | 53\. | Starfighter | 18 HP, 2 ARMOR |
+| 24\. | Civilian truck/technical | 8 HP, 2 ARMOR | 54\. | Submarine | 18 HP, 3 ARMOR |
+| 25\. | Armored car | 8 HP, 3 ARMOR | 55\. | Aircraft carrier | 18 HP, 3 ARMOR |
+| 26\. | Race car | 10 HP, 0 ARMOR | 56\. | Airship | 20 HP, 0 ARMOR |
+| 31\. | Civilian plane | 10 HP, 0 ARMOR | 61\. | Commercial jet | 20 HP, 2 ARMOR |
+| 32\. | Civilian van | 10 HP, 1 ARMOR | 62\. | Tank | 20 HP, 4 ARMOR |
+| 33\. | Covered truck | 10 HP, 2 ARMOR | 63\. | Battleship | 30 HP, 3 ARMOR |
+| 34\. | Amphibious vehicle | 10 HP, 2 ARMOR | 64\. | Nuclear icebreaker | 30 HP, 4 ARMOR |
+| 35\. | Light util. vehicle | 12 HP, 1 ARMOR | 65\. | Spaceship | 40 HP, 3 ARMOR |
+| 36\. | Civilian carrier | 12 HP, 1 ARMOR | 66\. | Battle mech | 40 HP, 4 ARMOR |
+
+## **VEHICLE WEAPONS**
+
++-----+---------------------------------+----------------------------+------+--------------------------+----------------------+
+| 1\. | None                            | NA                         | 7\.  | Front-mounted ram        | No crash self-damage |
++-----+---------------------------------+----------------------------+------+--------------------------+----------------------+
+| 2\. | Auto-targeting prototype cannon | 2D6 DAMAGE                 | 8\.  | Mounted heavy weapon     | 1D6+2 DAMAGE         |
++-----+---------------------------------+----------------------------+------+--------------------------+----------------------+
+| 3\. | Side hazards                    | 3 DAMAGE                   | 9\.  | Integrated weapons       | 1D6 DAMAGE,          |
+|     |                                 |                            |      |                          |                      |
+|     |                                 |                            |      |                          | 1D6 weapons          |
++-----+---------------------------------+----------------------------+------+--------------------------+----------------------+
+| 4\. | Homing missiles                 | 1D6+2 DAMAGE, 1D6 missiles | 10\. | Mounted grenade launcher | 1D6 DAMAGE           |
++-----+---------------------------------+----------------------------+------+--------------------------+----------------------+
+| 5\. | Mounted gun                     | 1D6+1 DAMAGE               | 11\. | Mine dropper             | 2D6 DAMAGE,          |
+|     |                                 |                            |      |                          |                      |
+|     |                                 |                            |      |                          | 1D6 mines            |
++-----+---------------------------------+----------------------------+------+--------------------------+----------------------+
+| 6\. | Gunner seats                    | 0 DAMAGE,                  | 12\. | Chemical weapon system   | 2D6 DAMAGE to area   |
+|     |                                 |                            |      |                          |                      |
+|     |                                 | 1D6 seats                  |      |                          |                      |
++-----+---------------------------------+----------------------------+------+--------------------------+----------------------+

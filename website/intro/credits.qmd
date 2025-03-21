@@ -1,0 +1,41 @@
+---
+title: "Credits"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## WRITING
+M. R. Gemmell
+
+## ILLUSTRATION & DESIGN
+M. R. Gemmell
+
+## TYPEFACES
+
+- Lexend
+- Michroma
+- Russo one
+
+## ICONS
+
+- The Noun Project
+- PhyloPic
+
+## INSPIRATIONS
+- Hellboy and B.P.R.D., Mike Mignola
+- Elden Ring, Hidetaka Miyazaki & George R. R. Martin
+- The Venture Bros., Jackson Pulick & Doc Hammer
+- The Avengers, Sydney Newman
+- Halo, Bungie
+- FIST, CLAYMORE
+- Monster of the Week, Michael Sands
+- Blades in the Dark, John Harper 
+- Escape from Dino Island, Sam Roberts
+
+## LICENSE
+
+Created for the FIST rpg by CLAYMORE
+PUML is licensed under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+

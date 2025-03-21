@@ -1,0 +1,56 @@
+---
+title: "PRCIOUS MINERALS"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+<center>
+![](images/Talos.png){style="width:200px; background:white; border-radius:25px"}
+</center>
+
+<br>
+
+When you choose the **Dotter of tartarus** **belief** gain the following benefits:
+
+-   **Strong:** Gain **+1 JAWS**
+
+-   **Unaware:** Gain **-1 EYES**
+-   __Rock:__ Gain a __GROUNDED TRAIT__
+
+Gain the below **Gear packs**
+
+- At start of mission choose a pack
+- At end of mission lose the pack
+
+## HEAVY TROOPER
+
+The best offense is a good defence
+
+- Break-action shotgun (1D6+1 DAMAGE)
+- Riot shield (1 ARMOR, equip as weapon)
+- Steel plate armor (2 ARMOR)
+
+## RAIDER
+
+Scrappy fighting
+
+- Submachine gun (1D6 DAMAGE)
+- Scrap kit (Destroy items to repair durability, 2 sacrificed durability equals 1 durability of repair)
+- Scrap armor (1 ARMOR, can be repaired to 2 ARMOR, accessory)
+
+## FIREFIGHTER
+
+Fire kindling & suppression
+
+- Flame thrower (1D6+1 DAMAGE)
+- Pyrogen fire suppression grenade (1 use, Douse fire in a medium enclosed area, e.g skip or caravan)
+- Reinforced silver fire suit (1 ARMOR, reduce all fire-based damage by 3 DAMAGE)
+
+## WARRIOR
+
+Weapons galore
+
+- Heavy machine gun (1D6+2 DAMAGE)
+- Hand cannon (1D6+1 DAMAGE)
+- Large axe (1D6+1 DAMAGE)

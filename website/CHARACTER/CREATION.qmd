@@ -1,0 +1,69 @@
+---
+title: "CREATION"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+Below are the instructions for creating your character.
+There is more information for the different parts, including examples, on further pages.
+
+## STARTING STATS
+
+You start with:
+
+-   8 MAX HP
+-   0 for reach attribute
+
+## BELIEF
+
+Choose a [BELIEF](/BELIEFS/BELIEFS.qmd).
+
+-   [SUN OF NYXMERA](/BELIEFS/SUN_OF_NYXMERA.qmd)
+-   [DOTTER OF TARTARUS](/BELIEFS/DOTTER_OF_TARTARUS.qmd)
+
+## DAY JOB
+
+Choose a day job.
+
+## REWARD:
+
+Choose 1:
+
+-   Gain +1D4 Max HP
+-   Gain 1D6 Primal dice
+
+## ALLY
+
+Create an NPC or choose an already created NPC who is your ally.
+This ally will always aim to help you with their skills and if they are available.
+
+The referee may have suggestions or a list of allies to choose from.
+
+## NEMESES
+
+Create an NPC or choose an already created NPC who counts you as a nemesis.
+This nemesis will try to foil you whenever they can.
+
+-   Name, Occupation, Belief, and Goal
+-   What do they intend to do to foil you?
+-   Why do they want to foil you?
+
+The referee may have suggestions or a list of nemeses to choose from.
+
+If a player/group are new to role-playing games/the system/the referee's setting, the referee may allow players to delay creating a nemeses.
+Once the player has a good idea in a subsequent system they may then make a nemesis.
+This can also be applied to a player's ally.
+
+## INFO
+
+A brief description of your character
+
+-   Personality features
+-   Physical characteristics
+-   Fashion style
+-   Choose one favourite piece of media. E.g. movie, book, album, sports league etc (real or made-up)
+
+## CODENAME
+
+Choose a codename

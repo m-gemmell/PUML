@@ -1,0 +1,55 @@
+---
+title: "AQUEOUS ELIXIRS"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+<center>
+![](images/water_body.png){style="width:200px; background:white; border-radius:25px; border:white 5px solid"}
+</center>
+
+<br>
+
+When you choose the **Protean** **belief** gain the following benefits:
+
+-   **Flexible:** Gain **+1 LIMBS**
+-   **Unoriginal:** Gain **-1 NERVES**
+-   __River:__ Gain a __FLOWING TRAIT__
+
+Gain the below **Gear packs**
+
+- At start of mission choose a pack
+- At end of mission lose the pack
+
+## CAVALRY
+
+Mounted combatant
+
+- Machine pistol (1D6 DAMAGE)
+- All-terrain single person vehicle (6HP, 1 ARMOR)
+- Helmet (1 DAMAGE, accessory)
+
+## DIVER
+
+Underwater combat
+
+- Harpoon gun (1D6+1 DAMAGE)
+- Diver propulsion vehicle (DPV)
+- Heated diving suit with oxygen tank (1 ARMOR)
+
+## COVERT OPS
+
+Stealth & Evac
+
+- Silenced pistol (1D6 DAMAGE)
+- Butterfly knife (1D6 DAMAGE)
+- Stealth scramble suit (1 use. Either scrambles the character’s identity, makes them look like a scanned target, or partially transparent)
+
+## SNIPER
+
+Far-reaching patient hunter
+
+- Sniper rifle (1D6+2 DAMAGE)
+- Combat knife (1D6 DAMAGE)
+- Camouflage tactical clothing (1 ARMOR)

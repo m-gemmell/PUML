@@ -1,0 +1,71 @@
+---
+title: "COSMIC TRAITS"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## **CHANCER**
+
+Your **Action dice** & **Primal dice** are **D8s**.
+They act as normal **D8s** except the 8s count as 0s.
+6s & 7s on your dice count towards ultra successes.
+Double 0s are ultra failures.
+
+2 weighted D6s (1 rolls 1s whilst the other rolls 6s) & **+1 Primal Dice** at mission end
+
+## **MAINTENANCE** 
+
+You immaculately maintain your **Equipment** (**Weapons**, **Armor**, etc).
+You have a separate **Durability track** with **6 spaces**.
+Any time any **Equipment** you are wearing or wielding loses **durability** you may instead mark off spaces on your **durability tracker** equal to the amount lost. 
+
+You also know how to get the most out of your weapons.
+You may spend **3 Durability** of a **Weapon** and/or your **Durability track** to deal double the final damage with the weapon.
+
+**Mission end:** Your **Durability track** is replenished.
+
+One litre of non-flammable gun lubricant & **+2 EYES**
+
+## **MASKED**
+
+You have a mask permanently bonded to you that determines your masked identity.
+Your masked identity represents someone of high fame or infamy.
+It could be a prophet of a deity, a leader of a thieve’s guild, a reincarnation of a dead hero etc.
+Your masked identity is seen by all beings and deities as a separate being to your real identity.
+You can start a mission without the mask on but once on it cannot be removed till the current mission ends or you die.
+Anyone who saw you don the mask thinks you simply vanished and the masked identity must have come from somewhere else.
+
+Bonded mask, **+1** on any **one attribute** based on a strength of mask identity, & **-1** on any **one attribute** based on a weakness of your real identity
+
+## **PRECOGNITION** 
+
+At the start of a mission roll **3 D6s** and mark down each number as a **Foresight number.** At any point you may spend and use a **Foresight number** by changing any rolled **D6** to its number. 
+
+Once all three **Foresight numbers** are used you gain a fourth foresight number.
+You can choose what number (1, 2, 3, 4, 5, or 6) this fourth **Foresight number** is when you use it.
+
+Tarot deck & **+1 EYES**
+
+## **STAR-BRAIN** 
+
+Your mind is a mini-star.
+It is contained within a metal container that is your head.
+You have the following features:
+
+-   **LIGHT**: You can produce light. You can focus this light into a beam that deals 1D6+1 DAMAGE.
+
+-   **GRAVITY**: You can manipulate the gravity of your star either repelling or attracting nearby small objects to you.
+
+-   **NOVA**: If you unleash the star from your head, either voluntarily or involuntarily, it catastrophically unleashes light and heat dealing **4D6 DAMAGE** to everything (except you) in a 20 foot radius (length of a standard cargo container). Afterwards your star is in a cooled down state, you are left with 1HP, and cannot use any feature of this trait till the end of the mission.
+
+Metal head (accessory) & **-2 NERVES**
+
+## **VACUUM** 
+
+You can suck and blow with the palms of your hands.
+Whilst sucking with one hand the other hand is blowing out the sucked up matter at the same force.
+The sucked up matter does not enter your body.
+You can control the power with the maximum force equating the force of a domestic leaf blower.
+
+Safety glasses (accessory) & **+1 JAWS**

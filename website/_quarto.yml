@@ -15,10 +15,15 @@ website:
     collapse-below: lg
 ###Navbar left
     left:
-      - text: "Overview"
+      - text: "INTRO"
         href: index.qmd
-      - text: "Attributes"
-        href: ATTRIBUTES.qmd
+      - text: "RULES"
+        href: RULES/NARRATION_AND_ROLLS.qmd
+      - text: "CHARACTER"
+        href: CHARACTER/CREATION.qmd
+      - text: "BELIEFS"
+        href: BELIEFS/BELIEFS.qmd
+      
 ###Navbar right
     right:
     # List of icons: https://icons.getbootstrap.com/
@@ -38,18 +43,56 @@ website:
       [![](/images/FIST_compatibility_mark_cropped.png){fig-alt="FIST" height=40px}](https://claymorerpgs.itch.io/fist)
 ##Sidebar
   sidebar:
-    - id: Overview
-      title: "Overview"
+    - id: INTRO
+      title: "INTRO"
       style: "floating"
       align: left
       contents:
         - href: index.qmd
-    - id: Attributes
-      title: "Overview"
+        - href: intro/credits.qmd
+    - id: RULES
+      title: "RULES"
       style: "floating"
       align: left
       contents:
-        - href: ATTRIBUTES.qmd
+        - href: RULES/NARRATION_AND_ROLLS.qmd
+        - href: RULES/ATTRIBUTES.qmd
+        - href: RULES/COMBAT.qmd
+        - href: RULES/EQUIPMENT.qmd
+        - href: RULES/REST_DEATH_AND_FREEDOM.qmd
+        - href: RULES/MISSION_END.qmd
+    - id: CHARACTER
+      title: "CHARACTER"
+      style: "floating"
+      align: left
+      contents:
+        - href: CHARACTER/CREATION.qmd
+    - id: BELIEFS
+      title: "BELIEFS"
+      style: "floating"
+      align: left
+      contents:
+        - href: BELIEFS/BELIEFS.qmd
+        - section: "SUN OF NYXMERA"
+          contents:
+          - href: BELIEFS/SUN_OF_NYXMERA.qmd
+          - href: BELIEFS/CELESTIAL_PRIVILEGES.qmd
+          - href: BELIEFS/COSMIC_TRAITS.qmd
+        - section: "DOTTER OF TARTARUS"
+          contents:
+          - href: BELIEFS/DOTTER_OF_TARTARUS.qmd
+          - href: BELIEFS/PRECIOUS_MINERALS.qmd
+          - href: BELIEFS/GROUNDED_TRAITS.qmd
+        - section: "PROTEAN"
+          contents:
+          - href: BELIEFS/PROTEAN.qmd
+          - href: BELIEFS/AQUEOUS_ELIXIRS.qmd
+          - href: BELIEFS/FLOWING_TRAITS.qmd
+        - section: "GAIAN"
+          contents:
+          - href: BELIEFS/GAIAN.qmd
+          - href: BELIEFS/LIFES_EMBRACES.qmd
+          - href: BELIEFS/UNIFYING_TRAITS.qmd
 
 #Format
 format:

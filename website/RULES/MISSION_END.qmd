@@ -1,0 +1,72 @@
+---
+title: "MISSION END"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+At the end of a mission players gain **XP**, **level up rewards**, **Primal dice**, and **replenish resources.**
+
+## **XP**
+
+At the end of a mission each **PC** that joined the mission gains XP. 
+
+Characters start at **Level 0** and must gain **XP** equal to their next **Level** to **Level up**. 
+
+-   To get to **Level 1** they need a total of **1 XP**
+
+-   To get to **Level 2** they need **2** **more XP** (**3 total XP**)
+
+-   To get to **Level 3** they need **3 more XP** (**6 total XP**) 
+
+-   Etc.
+
+## **LEVEL UP REWARD**
+
+When a **PC Levels up** they gain **+2 max HP** and **choose one** of the following **rewards**:
+
+-   Gain a new **Trait**
+
+    -   You can choose any trait from any belief.
+
+    -   It is recommended for the Referee to allow the use of traits from FIST.
+        They can be found on [fistref.com](https://fistref.com/traits).
+
+-   Gain **1D4 max HP**
+
+-   Gain **1D6 Primal Dice**
+
+## **PRIMAL DICE MISSION REWARD**
+
+At the end of a mission the **Referee** asks each player the following questions:
+
+-   Did you use a skill or knowledge from your day job?
+
+-   Did you play to your belief?
+    This involves following at least one tenet.
+
+-   Did you develop or gain an ally bond?
+
+-   Did you develop or gain a nemesis bond?
+
+The **player** must give a good reason to any yes they provide.
+It is the final decision of the **Referee** if the reason is valid.
+
+The **PC** gains **1 Primal Dice** with **1-2 valid yeses** and **2 Primal Dice** with **3-4 valid yeses**.
+
+## **REPLENISH RESOURCES**
+
+At mission end each **PC** replenishes their resources.
+This includes:
+
+-   Healing to **max HP**
+
+-   Regaining any **lost** or **broken items/Equipment** gained from their **traits**
+
+-   **Regaining uses of Traits**
+
+The following are lost:
+
+-   **Trait items/Equipment given to them by another PC**
+
+-   **Any and all items/Equipment gained from a Gear pack**

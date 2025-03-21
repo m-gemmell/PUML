@@ -1,0 +1,55 @@
+---
+title: "LIFE'S EMBRACES"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+<center>
+![](images/LIFE_FORM.png){style="width:200px; background:white; border-radius:25px; border:white 5px solid"}
+</center>
+
+<br>
+
+When you choose the **Protean** **belief** gain the following benefits:
+
+-   **Charming:** Gain **+1 NERVES**
+-   **Dogmatic:** Gain **-1 LIMBS**
+-   __Organ:__ Gain a __UNIFYING TRAIT__
+
+Gain the below **Gear packs**
+
+- At start of mission choose a pack
+- At end of mission lose the pack
+
+## CHANCER
+
+Gambler of life
+
+- Revolver (1D6+1 DAMAGE)
+- Cyanide pill & indistinguishable placebo pill
+- Life transfer glove (2 uses, 50/50 chance to give/steal 1D6 HP to/from an entity you’re touching)
+
+## COMBAT CHEF
+
+Food on the go
+
+- Large titanium frying pan (1D6+1 DAMAGE)
+- Outdoor cooking pack with 4 MREs (+1D6 HP)
+- Tactical clothing (1 ARMOR)
+
+## MORALE OFFICER
+
+Inspiring fighter
+
+- Assault rifle (1D6+1 DAMAGE)
+- 2 heart stickers (1 use, give another character +1D3 to their next action roll of choice)
+- Tactical clothing (1 ARMOR)
+
+## SPY
+
+Infiltration and Subterfuge
+
+- Forged identification & credentials (1 use)
+- Impossible mask case (1 use) (contains everything to scan & mimic the face & voice of a person)
+- Bribery/blackmail envelope  (1 use)

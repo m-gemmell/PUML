@@ -4,10 +4,19 @@ editor:
   markdown: 
     wrap: sentence
 ---
-![](images/primeval_deities.png){width=50% fig-align="center"}
+<center>
+![](images/PUML_itch_civer.png){style="width:500px; border-radius:5%"}
+</center>
 
-This is a website to host my PUML rules, a mod of the FIST rpg by CLAYMORE - https://claymorerpgs.itch.io/.
+PUML is a homebrewed variant of the FIST RPG. Whereas FIST is a high lethality system, PUML attempts to be less lethal allowing characters to more easily survive through a campaign.
 
+This website mainly contains the mechanics for play and how to create characters. There is little about the theory of play or best practices. I recommend reading FIST ULTRA EDITION for more theory.
+
+This rule set is built with my setting in mind. This is an alternative 1980s Earth where the Primeval deities influence its inhabitants. Most worship these deities and the world is divided into 6 superpowers and the Moon. The setting can be found at my Primeval Deities [itch.io](https://m-gemmell.itch.io/primeval-deities) or [website](https://m-gemmell.github.io/Primeval_Deities_FIST/).
+
+Ultimately how you use this RPG is up to you. You can use it along with its setting. You can take rules and traits from it for your FIST game. You can make your own homebrew and/or setting with the PUML rules.
+
+I hope you enjoy it!
 
 ## Contact
 

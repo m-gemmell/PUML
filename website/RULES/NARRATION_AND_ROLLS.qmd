@@ -1,0 +1,78 @@
+---
+title: "NARRATION AND ROLLS"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## NARRATION
+
+Much of the game will consist of collaborative narration between the **players** and **referee**.
+The referee narrates the world and the entities within it.
+They have final say.
+
+Players narrate their characters and may make suggestions to the referee.
+Most tasks you want your character to perform will automatically succeed.
+Your character is a well trained mercenary and so they can carry out many tasks without risk of failure.
+You have tactical infinity, be smart and creative and you may only need to resort to **combat** sometimes.
+
+## ACTION TURN
+
+Tasks the player characters wish to do that are risky or contain an element of chance will be decided by an **action turn**.
+The player rolls an **action roll**.
+This consists of **2D6** (summed) + an **attribute** of their choice.
+The referee may veto the choice and ask for a different **attribute**.
+Results are:
+
+-   1-6: **Failure**
+-   7–9: **Partial success** (includes a complication)
+-   10+: **Success**
+-   Two 6s: **Ultra success** (Something amazing happens)
+
+## DILEMMAS
+
+When a __FAILURE__ or __COMPLICATION__ comes about due to an __Action roll__ the __Referee__ may provide a __Dilemma__. This consists of giving the __Player__ two bad choices and the __Player__ chooses which they prefer/least dislike.
+
+## ATTRIBUTES
+
+There are four attributes: **EYES**, **JAWS**, **LIMBS**, and **NERVES**.
+See more info on the [ATTRIBUTES] page.
+Each of your attributes have a minimum and maximum of -3 and +3.
+
+## PRIMAL DICE
+
+As many available **PRIMAL** **DICE** (**D6**) can be added to any roll.
+This includes **action** rolls and **damage** **rolls**.
+Anyone can add **PRIMAL** **DICE** to anyone’s rolls including the referee’s.
+
+**PRIMAL** **DICE** are a 1 use bonus that you can have unlimited stock of.
+**PRIMAL** **DICE** are granted by the referee when they deem fit, at character creation, and as levelling rewards.
+
+## TAG TEAM ACTION
+
+Two characters controlled by the players (**PCs** and/or **allies**) can perform a **TAG** **TEAM** **ACTION**. This can be carried out in or outside of combat.
+The characters’ player/s describe how they work together.
+Then each character rolls a D6 + the relevant attribute for what each character is doing.
+These 2 values are summed and resolved like a normal action roll.
+
+For example: Dutch wants to throw Trashman over a wall who will then land and roll on the other side.
+Dutch rolls a **D6+JAWS** whilst Trashman rolls a **D6+LIMBS**.
+They add their 2 values together to determine the success of the **TAG** **TEAM** **ACTION**.
+
+## ADVANTAGE & DISADVANTAGE
+
+Add a **D6** to an **action roll**, remove the lowest/highest (**advantage/disadvantage**).
+
+## DICE
+
+Most of the dice used in PUML are six sided dice with the number 1, 2, 3, 4, 5, & 6 on their faces, known as a D6. Their are many ways to roll one or a combination of D6s.
+
+- D2: Divide the roll by 3 and round up.
+- D3: Divide the roll by 2 and round up.
+- D6: The number shown on the dice.
+- 2D6: Sum the roll of the 2 dice.
+- 2D6+X: Sum the roll of the 2 dice and add X.
+- D66: Roll 2 D6s in order and combine the numbers to get a 2 digit number e.g. a 1 then a 4 makes 14.
+  - There are 6X6 (36) different numbers starting at 11 and ending at 66
+- D666: Roll 3 D6s in order and combine the numbers to get a 3 digit number e.g. a 2 then a 4 followed by a 6 makes 246.
+  - There are 6X6X6 (216) different numbers starting at 11 and ending at 666

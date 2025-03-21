@@ -1,0 +1,140 @@
+---
+title: "COMBAT"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+**Combat** occurs when 2 or more forces are trying to harm each other.
+PCs only are in **Combat** and can take **combat actions** if they fulfill the two conditions:
+
+1.  They are in the **combat** zone
+
+2.  Enemies are aware of them
+
+**Combat** normally ends by defeating all enemy forces or retreating/escaping.
+Escaping/retreating may require **non-combat action turns**.
+
+## **PHASES**
+
+**Offense:** Players take turns taking **offense actions** with either their **PCs** or allied **NPCs**.
+They normally narrate how they want to harm/hinder the enemy with the **action roll** determining the **outcome**.
+However, they may perform other tasks. 
+
+**Defence:** The **enemy** attacks and the players narrate how they intend to avoid the damage/hindrance.
+The player performs a **defence action** turn to determine the **outcome**.
+
+The **phase** changes when X **combat action turns** have been taken (see below).
+
+An **Offense phase** & **Defence phase** equals a **combat round**.
+
+## **OFFENSE OUTCOMES**
+
+**FAILURE:** **No damage** dealt, +1 extra space moved on **Offense** **Action tracker**
+
+**PARTIAL SUCCESS:** Character **deals damage** but suffers an **offense complication**
+
+**SUCCESS:** Character **deals damage**
+
+**ULTRA SUCCESS:** Character **deals damage** & something amazing occurs
+
+## **DEFENCE OUTCOMES**
+
+**FAILURE:** Character **takes damage**
+
+**PARTIAL SUCCESS:** Roll on **defence complications table**
+
+**SUCCESS:** +1 extra space moved on **Defence Action tracker**
+
+**ULTRA SUCCESS:** Immediately change to **Offense phase** & something amazing occurs
+
+## **COMBAT THREAT & ACTION TRACKER**
+
+At the start of **combat** the **combat threat** is set to an appropriate level.
+
+Normally **combat** starts on the **offense phase**.
+
+The current **phase’s action tracker** is set to the vertically aligned **Offense** or **Defence space**.
+This determines how many **combat actions** can be carried out per **phase**.
+This is a maximum of 3 and a minimum of 1.
+
+Each **character** (**PCs**, **allies**, **NPCs**, and **enemies**) can only **attack once per phase**.
+
+Each charactercan be attacked multiple times per **Defence phase**.
+
+**Tag team actions** count as **1 action** during an **Offense or Defence phase**.
+If used during the **Offense phase** both characters can no longer act in the current phase. 
+
+After a **combat action** move the **action tracker** to the next number (3-\>2-\>1).
+
+After the last **action**, change the **phase**.
+Set the **action tracker** to the vertically aligned space of the current **combat threat**.
+
+The referee may reduce the **combat threat** when they feel appropriate.
+Examples include:
+
+-   Half the enemies are neutralised
+
+-   A boss is neutralised
+
+## **COMBAT THREAT LEVELS**
+
+**Level 1:** The players’ crew have an overwhelming advantage.
+They may have ambushed their enemies or have carried out a pitch perfect plan leading to combat.
+
+**Level 3:** The normal threat of combat.
+Neither the players or the enemies have a particular advantage. 
+
+**Level 5:** The players’ crew are in an overwhelmingly disadvantageous position.
+Their plan may have horribly failed.
+They may have angered the enemies as they were trying to be diplomatic with them in their base.
+
+## **THREAT & ACTION TRACKER**
+
+|         |     |     |     |     |     |
+|---------|-----|-----|-----|-----|-----|
+| THREAT  | 1   | 2   | 3   | 4   | 5   |
+| OFFENSE |     |     | 3   | 2   | 1   |
+| DEFENCE | 1   | 2   | 3   |     |     |
+
+## **OUTCOMES**
+
++----------------------------+-------------------------------+--------------------------+
+|                            | **OFFENSE**                   | **DEFENCE**              |
++----------------------------+-------------------------------+--------------------------+
+| **FAILURE (6-)**           | **+1** on **ACTION TRACKER**  | **FULL DAMAGE**          |
++----------------------------+-------------------------------+--------------------------+
+| **PARTIAL SUCCESS (7-9)**  | **DAMAGE** & **COMPLICATION** | **COMPLICATION**         |
++----------------------------+-------------------------------+--------------------------+
+| **SUCCESS (10+)**          | **DAMAGE**                    | **+1 on ACTION TRACKER** |
++----------------------------+-------------------------------+--------------------------+
+| **ULTRA SUCCESS (Two 6s)** | **DAMAGE** & \                | **Go to OFFENSE** & **\  |
+|                            | **Something amazing**         | Something amazing**      |
++----------------------------+-------------------------------+--------------------------+
+
+## **COMPLICATIONS & ULTRA SUCCESSES**
+
+**Complications** can be completely made up by the referee or you can use one of the examples below. 
+
+When a player rolls an **ULTRA SUCCESS** **something amazing happens!** The referee should collaborate with the player to determine what amazing thing occurs.
+Examples are below.
+
+If you use an example below try to describe how the effect comes about in the game world.
+
++----------------------------------------+-------------------------------------+
+| **COMPLICATIONS**                      | **ULTRA SUCCESS**                   |
++========================================+=====================================+
+| -   Durability loss                    | -   Deal Double DAMAGE              |
+|                                        |                                     |
+| -   ½ DAMAGE                           | -   -1 Combat threat                |
+|                                        |                                     |
+| -   Disadvantage on next combat action | -   PC’s Ally arrives to help       |
+|                                        |                                     |
+| -   +1 Combat threat                   | -   Destroy a structure/vehicle     |
+|                                        |                                     |
+| -   Trade DAMAGE                       | -   Destroy enemy's armor/accessory |
+|                                        |                                     |
+| -   Enemy reinforcements               | -   Player’s team easily escapes    |
+|                                        |                                     |
+|                                        | -   Free attack (during defence)    |
++----------------------------------------+-------------------------------------+

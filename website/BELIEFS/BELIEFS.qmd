@@ -1,0 +1,7 @@
+---
+title: "BELIEFS"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+

@@ -208,5 +208,113 @@
   },
   "ATTRIBUTES.qmd": {
     "ATTRIBUTES.html": "04e0b6de"
+  },
+  "ATTRIBUTES - Copy.qmd": {
+    "ATTRIBUTES - Copy.html": "b561d06b"
+  },
+  "DICE.qmd": {
+    "DICE.html": "f935c278"
+  },
+  "intro/credits.qmd": {
+    "credits.html": "330a2e2d"
+  },
+  "RULES/ATTRIBUTES.qmd": {
+    "ATTRIBUTES.html": "3492a8f7"
+  },
+  "RULES/DICE.qmd": {
+    "DICE.html": "7338fa8a"
+  },
+  "RULES/NARRATION_AND_ROLLS.qmd": {
+    "NARRATION_AND_ROLLS.html": "2674353d"
+  },
+  "RULES/COMBAT.qmd": {
+    "COMBAT.html": "1d7cc2fe"
+  },
+  "RULES/EQUIPMENT.qmd": {
+    "EQUIPMENT.html": "d1787fc5"
+  },
+  "RULES/REST_DEATH_AND_FREEDOM.qmd": {
+    "REST_DEATH_AND_FREEDOM.html": "9196cf22"
+  },
+  "RULES/MISSION_END.qmd": {
+    "MISSION_END.html": "f0c7e4f2"
+  },
+  "CHARACTER/CREATION.qmd": {
+    "CREATION.html": "97c27c73"
+  },
+  "CHARACTER/SUN_OF_NYXMERA.qmd": {
+    "SUN_OF_NYXMERA.html": "2861e20f"
+  },
+  "CHARACTER/CELESTIAL_PRIVILEGES.qmd": {
+    "CELESTIAL_PRIVILEGES.html": "75acb85f"
+  },
+  "CHARACTER/COSMIC_TRAITS.qmd": {
+    "COSMIC_TRAITS.html": "d1372d59"
+  },
+  "CHARACTER/DOTTER_OF_TARTARUS.qmd": {
+    "DOTTER_OF_TARTARUS.html": "08012e9b"
+  },
+  "CHARACTER/GROUNDED_TRAITS.qmd": {
+    "GROUNDED_TRAITS.html": "50d672b4"
+  },
+  "CHARACTER/PRECIOUS_MINERALS.qmd": {
+    "PRECIOUS_MINERALS.html": "7f4ed00d"
+  },
+  "CHARACTER/PROTEAN.qmd": {
+    "PROTEAN.html": "8fb7793f"
+  },
+  "CHARACTER/AQUEOUS_ELIXIRS.qmd": {
+    "AQUEOUS_ELIXIRS.html": "f379d8dc"
+  },
+  "CHARACTER/FLOWING_TRAITS.qmd": {
+    "FLOWING_TRAITS.html": "428215e5"
+  },
+  "CHARACTER/GAIAN.qmd": {
+    "GAIAN.html": "40b76b57"
+  },
+  "CHARACTER/LIFES_EMBRACES.qmd": {
+    "LIFES_EMBRACES.html": "89a829fd"
+  },
+  "CHARACTER/UNIFYING_TRAITS.qmd": {
+    "UNIFYING_TRAITS.html": "63d2b16d"
+  },
+  "BELIEFS/AQUEOUS_ELIXIRS.qmd": {
+    "AQUEOUS_ELIXIRS.html": "1317a6db"
+  },
+  "BELIEFS/BELIEFS.qmd": {
+    "BELIEFS.html": "dc944085"
+  },
+  "BELIEFS/CELESTIAL_PRIVILEGES.qmd": {
+    "CELESTIAL_PRIVILEGES.html": "b5eecd9e"
+  },
+  "BELIEFS/COSMIC_TRAITS.qmd": {
+    "COSMIC_TRAITS.html": "a21bfa90"
+  },
+  "BELIEFS/DOTTER_OF_TARTARUS.qmd": {
+    "DOTTER_OF_TARTARUS.html": "d60d9d17"
+  },
+  "BELIEFS/FLOWING_TRAITS.qmd": {
+    "FLOWING_TRAITS.html": "cd5ee237"
+  },
+  "BELIEFS/GAIAN.qmd": {
+    "GAIAN.html": "ff11b7ae"
+  },
+  "BELIEFS/GROUNDED_TRAITS.qmd": {
+    "GROUNDED_TRAITS.html": "408cddc7"
+  },
+  "BELIEFS/LIFES_EMBRACES.qmd": {
+    "LIFES_EMBRACES.html": "cb236741"
+  },
+  "BELIEFS/PRECIOUS_MINERALS.qmd": {
+    "PRECIOUS_MINERALS.html": "3ba86d38"
+  },
+  "BELIEFS/PROTEAN.qmd": {
+    "PROTEAN.html": "c6d89f8e"
+  },
+  "BELIEFS/SUN_OF_NYXMERA.qmd": {
+    "SUN_OF_NYXMERA.html": "0e11e694"
+  },
+  "BELIEFS/UNIFYING_TRAITS.qmd": {
+    "UNIFYING_TRAITS.html": "d07a38cd"
   }
 }

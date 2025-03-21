@@ -1,0 +1,87 @@
+---
+title: "FLOWING TRAITS"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## **CHAKRAM PORTALS** 
+
+You have 2 plate sized chakrams that are bonded to you.
+They each have one perpetual portal as the hole.
+One portal is connected to the other.
+
+**Once per mission** you can turn off the portals for 1 second.
+
+Two portal chakrams (1D6+1 DAMAGE) & **+1 EYES**
+
+## **COMPOSITE** 
+
+You can remove parts of your body.
+They act as if they are attached, fully under your control.
+No open wounds are created, the newly created inner surfaces are seemingly solid.
+Only you can remove and reattach these body parts.
+
+Box of surgical tape & **+1 LIMBS**
+
+## **COPYCAT**
+
+**Once per mission** upon touching someone you can copy one of their abilities.
+This can be the main text of a **PC’s** trait (excluding item, attributes, etc.).
+It can be the written ability from an NPC’s stat information.
+You keep this ability until the end of the current mission.
+
+Ability scanning eyewear (2 uses) & **-1 NERVES**
+
+## **LIMBLESS** 
+
+You have no limbs or neck.
+Instead your hands, feet, and head float.
+They mainly act as they would normally.
+You can move them closer or up to 2 times further than their normal distance relative to your body.
+
+You can violently fire a foot, hand, or your head.
+The extremity becomes detached and you will need to pick it up and bond it to you.
+
+Leather Spiked cap, gloves, and shoes (1D6 DAMAGE) & **-1 JAWS**
+
+## **NANOSUIT** 
+
+You wear a skin tight nanosuit with nanobots flowing through your circulatory system.
+Your nanosuit has **6 max charges**.
+You can spend charges for the below special abilities.
+Only one can be active at a time.
+
+-   **Attack (1 charge):** **+1** to an **Offence action roll** and **+2** to its **DAMAGE**
+
+-   **Defend (1 charge):** **+1 ARMOR** till the end of the next **Combat phase**
+
+-   **Cloak (3 charges):** Gain invisibility for **3 turns**
+
+-   **Heal (3 charges):** Gain **+1D6HP**
+
+**Mission end:** Regain all charges.
+
+You may use a **Level up reward** to gain **+6 max charges.**
+
+Nanosuit (1 ARMOR, accessory, armor and headgear can be worn on top) & **+3HP**
+
+## **TRANSFORMER** 
+
+**Once per mission** you can turn into a sentient vehicle.
+You can choose a vehicle with a HP value up to 8.
+You can control yourself, see, speak, and hear.
+
+You may use a **Level up reward** to choose one of the below upgrades.
+Each upgrade can only be chosen once. 
+
+-   Increase **HP** of vehicle choice to 12HP
+
+-   When you change into a vehicle **roll 2D6 once** on the **VEHICLE WEAPONS** table to include the result on the vehicle you become
+
+You revert back to normal when your vehicle form reaches **0HP** or at the end of the mission.
+Any extra damage you receive when your vehicle form reaches 0HP is suffered by your normal form.
+
+Links to list of [vehicles](/RULES/EQUIPMENT.html#vehicles-1) & [vehicle weapons](/RULES/EQUIPMENT.html#vehicle-weapons).
+
+Leather biker jacket (1 ARMOR) & **-1 NERVES**

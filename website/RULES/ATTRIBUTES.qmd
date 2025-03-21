@@ -1,0 +1,82 @@
+---
+title: "ATTRIBUTES"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+There are four attributes for characters; EYES, TEETH, LIMBS, and HEART.
+
+## EYES
+<center>
+![](images/eyes_attribute.png){style="width:200px; background:white; border-radius:25px"}
+</center>
+
+[Nyxmera](https://m-gemmell.github.io/Primeval_Deities_FIST/nyxmera.html) is the deity of the sky. Its eyes are the sun, stars, planets, and moons in the sky. __Nyxmera__ loves to watch, enjoying drama and comedy. It is knowledgeable and always hungers for new information.
+
+You can roll __+EYES__ for assessing and manipulating a situation.
+
+- Knowledge-based tasks
+- STEM
+- Tactical manoeuvres
+- Technical operations
+- Reconnaissance & Research
+- Astral powers
+
+
+## JAWS
+<center>
+![](images/jaws_attribute.png){style="width:200px; background:white; border-radius:25px"}
+</center>
+
+[Tartarus](https://m-gemmell.github.io/Primeval_Deities_FIST/tartarus.html) is the deity of the earth. Its __jaws__ are the entrances into its domain and its prison, The DOT. It is angry, greedy and destructive.
+
+You can roll __+JAWS__ for bouts of strength, violence, or rage.
+
+- Strength-based tasks
+- Athletics
+- Aggressive manoeuvres
+- Destruction & consumption
+- Freeing the imprisoned
+- Earth and fire powers
+
+## LIMBS
+<center>
+![](images/limbs_attribute.png){style="width:200px; background:white; border-radius:25px"}
+</center>
+
+[Proteus](https://m-gemmell.github.io/Primeval_Deities_FIST/proteus.html) is the deity of water.
+Its limbs represent how it reaches into and shapes living systems whilst in turn being shaped by them.
+It is adaptable, calm, and flowing.
+
+You can roll __+LIMBS__ for fast and fluid movements.
+
+These include:
+
+- Dexterity-based tasks
+- Reflexive manoeuvres
+- Use of steady hands and body
+- Blending in
+- Going with the flow
+- Water powers
+
+## BRAIN
+<center>
+![](images/nerves_attribute_final.png){style="width:200px; background:white; border-radius:25px"}
+</center>
+
+[Gaia](https://m-gemmell.github.io/Primeval_Deities_FIST/gaia.html) is the deity of life.
+Its __nerves__ connect all living creatures, the cells, to it, the brain. 
+In this way all life is a hyperorganism. 
+It is social and mystical.
+
+You can roll __+NERVES__ for human and paranormal interactions.
+
+These include:
+
+- Charisma-based tasks
+- Humanities and arts
+- Diplomatic manoeuvres
+- Unique and creative ideas
+- Leadership and persuasion
+- Life and mind powers

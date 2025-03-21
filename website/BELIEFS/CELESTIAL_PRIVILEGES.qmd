@@ -1,0 +1,55 @@
+---
+title: "CELESTIAL PRIVILEGES"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+<center>
+![](images/starvatar.png){style="width:200px; background:white; border-radius:25px"}
+</center>
+
+<br>
+
+When you choose the **Sun of Nyxmera** **belief** gain the following benefits:
+
+-   **Perceptive:** Gain **+1 EYES**
+-   **Weak:** Gain **-1 JAWS**
+-   __Star:__ Gain a __COSMIC TRAIT__
+
+Gain the below **Gear packs**
+
+- At start of mission choose a pack
+- At end of mission lose the pack
+
+## LIGHT TROOPER
+
+Shock and awe
+
+- Laser rifle (1D6+1 DAMAGE)
+- 2 stun grenades (temporary blinding, one use)
+- Hard light shield generator (1 ARMOR, accessory)
+
+## SHUTTERBUG
+
+Kidnapping & assassination
+
+- Silenced pistol (1D6 DAMAGE)
+- Combat syringe with 1 vial that either kills or knocks out an entity with 5 or less HP
+- Hand prison: handheld device that stores any willing, unconscious, or dead entity
+
+## SUPERVISER
+
+Technical operations
+
+- 2 Repair kits (1 use, +1D3 durability)
+- 2 Medkits (1 use, +1D6+EYES HP)
+- 1 Floppy disk (1 use, hack with one of the following keywords: Ransomware, Decrypt, Virus, Login, or Loop)
+
+## VOYEUR
+
+Recon
+
+- Bow (1D6 DAMAGE)
+- Binoculars with heat & x-ray vision
+- Camouflage tactical clothing (1 ARMOR)

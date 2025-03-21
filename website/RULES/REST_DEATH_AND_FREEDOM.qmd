@@ -1,0 +1,65 @@
+---
+title: "REST, DEATH, AND FREEDOM"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## **RENDEZVOUS POINT**
+
+Once per mission, the players may request a **Rendezvous point**, and the **Referee** will describe a nearby but difficult to reach safe location where the **Players** can recuperate.
+
+At the **Rendezvous point**, each player may choose one:
+
+-   **REST:** Heal **1D6 HP** 
+
+-   **RESTOCK:** Replenish one item or resource
+
+-   **INTEL:** Gain one useful fact about the mission
+
+-   **REPAIR:** Repair **1D6 Durability** across gear
+
+## **0HP**
+
+When a **PC** reaches **0HP** they have 2 options.
+They can either become **Knocked-out** or perform a **Last stand**.
+
+Most **NPCs** die when they reach 0HP.
+Exceptions are up to the **Referee**.
+
+## **KNOCKED-OUT**
+
+A **Knocked-out PC** is unconscious and in a critical condition for the rest of the mission.
+They must be carried by their team mates till the end of the current mission and subsequently be evacuated out of the mission zone.
+**Knocked-out** **PCs** cannot be healed during the mission.
+
+## **LAST STAND**
+
+A **Last stand** allows a **PC** to perform one final **action** before they **Die**.
+Use this as an opportunity to fulfill a goal or want of the **PC**.
+Give a strong character driven reason for your last stand and with good rolls your **Referee** should be generous.
+
+Examples of **Last stands** include:
+
+-   Attacking your killer
+
+-   Holding the line for a retreat
+
+-   Self-destructing a base with you in it
+
+-   Saving someone else by taking their hit
+
+-   Carrying out one last hack
+
+This is intended to make the end of your character memorable.
+
+## **CREATIVE FREEDOM**
+
+As a **Player** you are encouraged to make creative plays.
+However, there are times when your **Referee** is worried a tactic may be repeated and abused.
+
+To facilitate creative role-playing and problem solving the **Referee** may give you **creative freedom**.
+If this is the case your idea will work, possibly needing a successful roll. 
+
+However, the same idea will either not work a second time or will work in the future with a much lower efficiency.
+If you use the same idea twice and the **Referee** doesn’t remember the first time, then it may have been a big enough gap to use successfully again.
