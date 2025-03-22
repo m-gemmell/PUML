@@ -1,0 +1,11 @@
+---
+title: "RESOURCES"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## PRINTABLE SHEETS
+
+- [CHARACTER SHEET](./PUML_character_sheet.pdf)
+- [COMBAT TRACKER](./PUML_combat_tracker.pdf)

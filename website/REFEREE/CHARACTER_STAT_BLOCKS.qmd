@@ -1,0 +1,21 @@
+---
+title: "CHARACTER STAT BLOCKS"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+You can use the **Enemy attributes** table to help create your own stat blocks.
+There is a lot of guidance on creating stat blocks in the intelligence matrix of **FIST Ultra edition**.
+
+|  |  |  |  |  |  |
+|------------|------------|------------|------------|------------|------------|
+|  | **Representative being** | **EYES** | **JAWS** | **LIMBS** | **NERVES** |
+| **-3** | Incompetent human | Intoxicated person | Hunger striker | Stickler | Hermit |
+| **-2** | Unskilled human | Day dreamer | Couch potato | Butterfingers | Homebody |
+| **-1** | Normal human | Office worker | Factory worker | Freelancer | Event coordinator |
+| **0** | Paranormal mercenary | Rifleman | Athlete | Gymnast | Actor |
+| **1** | Specialised human | Sniper | Strongman | Contortionist | Doctor |
+| **2** | S tier animal | Eagle | Elephant | Octopus | Ant/Bee queen |
+| **3** | Force of nature | Internet wide Artificial Super Intelligence | Skyscraper sized Mecha or Kaiju | Shapeshifter | Hive mind |
+| **4** | Deity | Nyxmera | Tartarus | Proteus | Gaia |

@@ -1,0 +1,77 @@
+---
+title: "ALLY AND NEMESIS"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+A player can call for assistance from an **ally**.
+Each **ally** can only be called on **once per mission**.
+Difficult requests may require an action roll to determine its success.
+
+When a request is made the referee rolls a hidden **Nemesis dice**.
+They roll **1D6** and if the number is larger than the number of times **allies** have been called for help in this mission (totalled across all **allies**) the request goes through as normal.
+If the roll is equal to or lower the request is intercepted by a **nemesis** of one of the players.
+The **ally** does not help and the **nemesis** makes life more difficult for the PCs in some way.
+
+The below are only suggestions.
+Please create your own as long as the referee is consulted and happy.
+Also feel free to use a below **ally** suggestion as a **nemesis** or vice versa.
+
+Through play **PCs** may gain more **Allies** and/or **Nemeses** from the **NPCs** and **enemies** they interact with.
+
+Additionally, the
+
+## **ALLIES**
+
+-   **Academic:** A researcher with interest in something the player character does.
+    Constantly asking questions but also very keen to answer any they can.
+
+-   **Celebrity**: This celebrity is a VIP and may be able to get you into a fancy restaurant or party.
+
+-   **Officer in a military:** More likely for the military to overlook what the team is doing.
+    Possibly even help depending on the situation.
+
+-   **Doctor:** A good source for healing.
+
+-   **Ex-merc mentor:** A merc who is no longer on the field.
+    Their knowledge and merc contacts can be very useful.
+    The more flexible they are, the less powerful they are.
+
+-   **Pilot:** Pilot of your team’s personal transport vehicle.
+    Having them on your good side is never a bad thing.
+
+-   **Primeval deity:** One of the deities has blessed you.
+    If you take this then take one of the other deities as a nemesis.
+    Most likely pairings are Nyxmera + Tartarus, or Proteus + Gaia.
+
+-   **The referee:** You know the referee of this game of **PUML**.
+    Seems pretty powerful so there must be a catch.
+
+## **NEMESES**
+
+-   **Bounty hunter/detective:** You have a bounty on your head somewhere.
+    This person is emotionally invested in catching you.
+
+-   **Doppelganger:** This might be a clone/the real you/a changeling/an alien/android.
+    Any which way it wants to replace you.
+
+-   **Horror:** Something is hunting you.
+    It may be an eldritch being or a trans-dimensional creature.
+    It could be a revenant of someone you betrayed or a spirit of a land you desecrated.
+    You seemingly have no hope.
+
+-   **Primeval deity:** One of the deities particularly dislikes you.
+    If you take this then take one of the other deities as an ally.
+    Most likely pairings are Nyxmera + Tartarus, or Proteus + Gaia.
+
+-   **Rival mercenary:** A rival who may take on the same missions as you.
+
+-   **Super villain:** Someone with a dastardly plan to change the world in some way.
+    You may have foiled their plans in the past.
+
+-   **Taxman:** You washed the slate clean of your previous life.
+    They all think you no longer exist, all except the taxman and they demand what you owe.
+
+-   **Time & space bureau:** You are not in the correct time and/or space.
+    The bureau has someone searching for you to put you back in your right place.

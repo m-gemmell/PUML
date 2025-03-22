@@ -1,0 +1,16 @@
+---
+title: "BOSSES"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+In **PUML** and **FIST** some enemies have **Boss moves**.
+A **Boss** can use their **Boss move** **once per mission.**
+
+Bosses act as other enemies in Combat with 2 exceptions:
+
+-   If there are less enemies than **Defence actions** on the **Defence action tracker** a **Boss** can act multiple times.
+
+A **Boss** can use their **Boss move** at any time during **Combat**.
+Using a **Boss move** does not affect the **Action tracker**.

@@ -23,6 +23,10 @@ website:
         href: CHARACTER/CREATION.qmd
       - text: "BELIEFS"
         href: BELIEFS/BELIEFS.qmd
+      - text: "REFEREE"
+        href: REFEREE/REFEREE.qmd
+      - text: "RESOURCES"
+        href: RESOURCES/RESOURCES.qmd
       
 ###Navbar right
     right:
@@ -49,7 +53,8 @@ website:
       align: left
       contents:
         - href: index.qmd
-        - href: intro/credits.qmd
+        - href: INTRO/CREDITS.qmd
+        - href: INTRO/FIST_COMPATIBILITY.qmd
     - id: RULES
       title: "RULES"
       style: "floating"
@@ -67,6 +72,8 @@ website:
       align: left
       contents:
         - href: CHARACTER/CREATION.qmd
+        - href: CHARACTER/DAY_JOB.qmd
+        - href: CHARACTER/ALLY_AND_NEMESIS.qmd
     - id: BELIEFS
       title: "BELIEFS"
       style: "floating"
@@ -93,6 +100,29 @@ website:
           - href: BELIEFS/GAIAN.qmd
           - href: BELIEFS/LIFES_EMBRACES.qmd
           - href: BELIEFS/UNIFYING_TRAITS.qmd
+        - section: "POLYTHEIST"
+          contents:
+          - href: BELIEFS/POLYTHEIST.qmd
+          - href: BELIEFS/PANTHEONIC_BLESSINGS.qmd
+        - section: "APATHEIST"
+          contents:
+          - href: BELIEFS/APATHEIST.qmd
+          - href: BELIEFS/SELF_ACTUALISATIONS.qmd
+    - id: REFEREE
+      title: "REFEREE"
+      style: "floating"
+      align: left
+      contents:
+        - href: REFEREE/REFEREE.qmd
+        - href: REFEREE/BOSSES.qmd
+        - href: REFEREE/ALLIES_AND_NEMESES.qmd
+        - href: REFEREE/CHARACTER_STAT_BLOCKS.qmd
+    - id: RESOURCES
+      title: "RESOURCES"
+      style: "floating"
+      align: left
+      contents:
+        - href: RESOURCES/RESOURCES.qmd
 
 #Format
 format:

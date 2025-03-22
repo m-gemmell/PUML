@@ -5,3 +5,10 @@ editor:
     wrap: sentence
 ---
 
+Beliefs are akin to classes in other TTRPGs. 
+Six are included in these materials:
+
+- [SUN OF NYXMERA](/BELIEFS/SUN_OF_NYXMERA.qmd): Observation, duality, & manipulation.
+- [DOTTER OF TARTARUS](/BELIEFS/DOTTERS_OF_TARTARUS.qmd): Power, destruction, and liberation.
+- [PROTEAN](/BELIEFS/PROTEAN.qmd): Flow, flexibility, and perseverance.
+- [GAIAN](/BELIEFS/GAIAN.qmd): Unify, lead, and emotive.

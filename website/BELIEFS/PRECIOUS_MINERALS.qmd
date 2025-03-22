@@ -1,5 +1,5 @@
 ---
-title: "PRCIOUS MINERALS"
+title: "PRECIOUS MINERALS"
 editor: 
   markdown: 
     wrap: sentence

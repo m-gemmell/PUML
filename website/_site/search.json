@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "BELIEFS/APATHEIST.html",
+    "href": "BELIEFS/APATHEIST.html",
+    "title": "APATHEIST",
+    "section": "",
+    "text": "Although you know the deities exist you find no point in worshipping or worrying about them. You believe they do not care about you. You find meaning in yourself."
+  },
+  {
+    "objectID": "BELIEFS/APATHEIST.html#tenets",
+    "href": "BELIEFS/APATHEIST.html#tenets",
+    "title": "APATHEIST",
+    "section": "TENETS",
+    "text": "TENETS\n\nStrive for unification\nObserve and sow intrigue\nUnleash your power!\nFlow like water to adapt"
+  },
+  {
     "objectID": "BELIEFS/AQUEOUS_ELIXIRS.html",
     "href": "BELIEFS/AQUEOUS_ELIXIRS.html",
     "title": "AQUEOUS ELIXIRS",
@@ -33,6 +47,13 @@
     "title": "AQUEOUS ELIXIRS",
     "section": "SNIPER",
     "text": "SNIPER\nFar-reaching patient hunter\n\nSniper rifle (1D6+2 DAMAGE)\nCombat knife (1D6 DAMAGE)\nCamouflage tactical clothing (1 ARMOR)"
+  },
+  {
+    "objectID": "BELIEFS/BELIEFS.html",
+    "href": "BELIEFS/BELIEFS.html",
+    "title": "BELIEFS",
+    "section": "",
+    "text": "Beliefs are akin to classes in other TTRPGs. Six are included in these materials:\n\nSUN OF NYXMERA: Observation, duality, & manipulation.\nDOTTER OF TARTARUS: Power, destruction, and liberation.\nPROTEAN: Flow, flexibility, and perseverance.\nGAIAN: Unify, lead, and emotive."
   },
   {
     "objectID": "BELIEFS/CELESTIAL_PRIVILEGES.html",
@@ -322,37 +343,86 @@
     "text": "SPY\nInfiltration and Subterfuge\n\nForged identification & credentials (1 use)\nImpossible mask case (1 use) (contains everything to scan & mimic the face & voice of a person)\nBribery/blackmail envelope (1 use)"
   },
   {
+    "objectID": "BELIEFS/PANTHEONIC_BLESSINGS.html",
+    "href": "BELIEFS/PANTHEONIC_BLESSINGS.html",
+    "title": "PANTHEONIC BLESSINGS",
+    "section": "",
+    "text": "When you choose the POLYTHEIST belief gain the following benefits:\nGain the below Gear packs"
+  },
+  {
+    "objectID": "BELIEFS/PANTHEONIC_BLESSINGS.html#heavy-trooper",
+    "href": "BELIEFS/PANTHEONIC_BLESSINGS.html#heavy-trooper",
+    "title": "PANTHEONIC BLESSINGS",
+    "section": "HEAVY TROOPER",
+    "text": "HEAVY TROOPER\nThe best offense is a good defence\n\nBreak-action shotgun (1D6+1 DAMAGE)\nRiot shield (1 ARMOR, equip as weapon)\nSteel plate armor (2 ARMOR)"
+  },
+  {
+    "objectID": "BELIEFS/PANTHEONIC_BLESSINGS.html#sniper",
+    "href": "BELIEFS/PANTHEONIC_BLESSINGS.html#sniper",
+    "title": "PANTHEONIC BLESSINGS",
+    "section": "SNIPER",
+    "text": "SNIPER\nFar-reaching patient hunter\n\nSniper rifle (1D6+2 DAMAGE)\nCombat knife (1D6 DAMAGE)\nCamouflage tactical clothing (1 ARMOR)"
+  },
+  {
+    "objectID": "BELIEFS/PANTHEONIC_BLESSINGS.html#morale-officer",
+    "href": "BELIEFS/PANTHEONIC_BLESSINGS.html#morale-officer",
+    "title": "PANTHEONIC BLESSINGS",
+    "section": "MORALE OFFICER",
+    "text": "MORALE OFFICER\nInspiring fighter\n\nAssault rifle (1D6+1 DAMAGE)\n2 heart stickers (1 use, give another character +1D3 to their next action roll of choice)\nTactical clothing (1 ARMOR)"
+  },
+  {
+    "objectID": "BELIEFS/PANTHEONIC_BLESSINGS.html#voyeur",
+    "href": "BELIEFS/PANTHEONIC_BLESSINGS.html#voyeur",
+    "title": "PANTHEONIC BLESSINGS",
+    "section": "VOYEUR",
+    "text": "VOYEUR\nRecon\n\nBow (1D6 DAMAGE)\nBinoculars with heat & x-ray vision\nCamouflage tactical clothing (1 ARMOR)"
+  },
+  {
+    "objectID": "BELIEFS/POLYTHEIST.html",
+    "href": "BELIEFS/POLYTHEIST.html",
+    "title": "POLYTHEIST",
+    "section": "",
+    "text": "You worship the four deities. You enjoy creating intrigue for the eyes of Nyxmera, the deity of the sky. You fight for justice for Tartarus, the deity of the earth. You stay in the present and go with the flow, embodying the deity of water, Proteus. You are unified in your worship pleasing Gaia, the deity of life.\nPolytheists are rare. Even rarer are the few who who have been blessed by all four deities, like you. Many see you as a religious leader."
+  },
+  {
+    "objectID": "BELIEFS/POLYTHEIST.html#tenets",
+    "href": "BELIEFS/POLYTHEIST.html#tenets",
+    "title": "POLYTHEIST",
+    "section": "TENETS",
+    "text": "TENETS\n\nStrive for unification\nObserve and sow intrigue\nUnleash your power!\nFlow like water to adapt"
+  },
+  {
     "objectID": "BELIEFS/PRECIOUS_MINERALS.html",
     "href": "BELIEFS/PRECIOUS_MINERALS.html",
-    "title": "PRCIOUS MINERALS",
+    "title": "PRECIOUS MINERALS",
     "section": "",
     "text": "When you choose the Dotter of tartarus belief gain the following benefits:\nGain the below Gear packs"
   },
   {
     "objectID": "BELIEFS/PRECIOUS_MINERALS.html#heavy-trooper",
     "href": "BELIEFS/PRECIOUS_MINERALS.html#heavy-trooper",
-    "title": "PRCIOUS MINERALS",
+    "title": "PRECIOUS MINERALS",
     "section": "HEAVY TROOPER",
     "text": "HEAVY TROOPER\nThe best offense is a good defence\n\nBreak-action shotgun (1D6+1 DAMAGE)\nRiot shield (1 ARMOR, equip as weapon)\nSteel plate armor (2 ARMOR)"
   },
   {
     "objectID": "BELIEFS/PRECIOUS_MINERALS.html#raider",
     "href": "BELIEFS/PRECIOUS_MINERALS.html#raider",
-    "title": "PRCIOUS MINERALS",
+    "title": "PRECIOUS MINERALS",
     "section": "RAIDER",
     "text": "RAIDER\nScrappy fighting\n\nSubmachine gun (1D6 DAMAGE)\nScrap kit (Destroy items to repair durability, 2 sacrificed durability equals 1 durability of repair)\nScrap armor (1 ARMOR, can be repaired to 2 ARMOR, accessory)"
   },
   {
     "objectID": "BELIEFS/PRECIOUS_MINERALS.html#firefighter",
     "href": "BELIEFS/PRECIOUS_MINERALS.html#firefighter",
-    "title": "PRCIOUS MINERALS",
+    "title": "PRECIOUS MINERALS",
     "section": "FIREFIGHTER",
     "text": "FIREFIGHTER\nFire kindling & suppression\n\nFlame thrower (1D6+1 DAMAGE)\nPyrogen fire suppression grenade (1 use, Douse fire in a medium enclosed area, e.g skip or caravan)\nReinforced silver fire suit (1 ARMOR, reduce all fire-based damage by 3 DAMAGE)"
   },
   {
     "objectID": "BELIEFS/PRECIOUS_MINERALS.html#warrior",
     "href": "BELIEFS/PRECIOUS_MINERALS.html#warrior",
-    "title": "PRCIOUS MINERALS",
+    "title": "PRECIOUS MINERALS",
     "section": "WARRIOR",
     "text": "WARRIOR\nWeapons galore\n\nHeavy machine gun (1D6+2 DAMAGE)\nHand cannon (1D6+1 DAMAGE)\nLarge axe (1D6+1 DAMAGE)"
   },
@@ -390,6 +460,41 @@
     "title": "PROTEAN",
     "section": "WATER BODIES",
     "text": "WATER BODIES\nWater bodies are formed by the presence of Proteus. They freeze where they touch solid surfaces, allowing them to slide. Where they touch air they let off a low constant supply of steam.\nThey can be described as cat-like, destructively moving about one moment and lazing about the next. They have been seen finding holes or containers and settling themselves into it. As likely, they can be seen barrelling down hills, cutting new rivers through the dirt.\nThere are also other water bodies that are formed by the mixture of Proteus and another deity. They can be very different compared to the water bodies formed solely by Proteus."
+  },
+  {
+    "objectID": "BELIEFS/SELF_ACTUALISATIONS.html",
+    "href": "BELIEFS/SELF_ACTUALISATIONS.html",
+    "title": "SELF ACTUALISATIONS",
+    "section": "",
+    "text": "When you choose the APATHEIST belief gain the following benefits:\nGain the below Gear packs"
+  },
+  {
+    "objectID": "BELIEFS/SELF_ACTUALISATIONS.html#elite",
+    "href": "BELIEFS/SELF_ACTUALISATIONS.html#elite",
+    "title": "SELF ACTUALISATIONS",
+    "section": "ELITE",
+    "text": "ELITE\nHi-tech gear\n\nRailgun (1D6+2 DAMAGE)\nEMP grenade (1 use)\nPower armor (2 ARMOR)"
+  },
+  {
+    "objectID": "BELIEFS/SELF_ACTUALISATIONS.html#phantom",
+    "href": "BELIEFS/SELF_ACTUALISATIONS.html#phantom",
+    "title": "SELF ACTUALISATIONS",
+    "section": "PHANTOM",
+    "text": "PHANTOM\nUndetectable nobody\n\nEnergy blade (1D6+2 DAMAGE)\nSecurity blocker (1 use, prevents user from being perceived by electronic security systems for limited time)\nAmnesia ray (1 use, target forgets the previous 2 minutes and the next 1 minute)"
+  },
+  {
+    "objectID": "BELIEFS/SELF_ACTUALISATIONS.html#space-manipulator",
+    "href": "BELIEFS/SELF_ACTUALISATIONS.html#space-manipulator",
+    "title": "SELF ACTUALISATIONS",
+    "section": "SPACE MANIPULATOR",
+    "text": "SPACE MANIPULATOR\nThinking with portals\n\nBlack hole grenade (1 use, XD6 DAMAGE, X=D6-1)\nRed portal device (1 use, create a red portal on a flat surface that connects to the blue portal)\nBlue portal device (1 use, create a blue portal on a flat surface that connects to the red portal)"
+  },
+  {
+    "objectID": "BELIEFS/SELF_ACTUALISATIONS.html#vehicle-specialist",
+    "href": "BELIEFS/SELF_ACTUALISATIONS.html#vehicle-specialist",
+    "title": "SELF ACTUALISATIONS",
+    "section": "VEHICLE SPECIALIST",
+    "text": "VEHICLE SPECIALIST\nHit and run\n\nRocket launcher (1D6+2 DAMAGE)\nVehicle theft kit (1 use)\nTactical clothing (1 ARMOR)"
   },
   {
     "objectID": "BELIEFS/SUN_OF_NYXMERA.html",
@@ -476,6 +581,27 @@
     "text": "SUITED-CREATURE\nYou are a small sentient living entity in a humanoid sized and shaped suit. You could be a worm in a suit from the gods, a little alien in a human robot, a goldfish in a fishbowl as the head of an iron golem etc. Choose what type of small entity you are and what type of suit you have. You may freely leave the suit. When you leave the suit you are still sentient and have 3HP.\nRobot suit (1 ARMOR) & +1 LIMBS"
   },
   {
+    "objectID": "CHARACTER/ALLY_AND_NEMESIS.html",
+    "href": "CHARACTER/ALLY_AND_NEMESIS.html",
+    "title": "ALLY AND NEMESIS",
+    "section": "",
+    "text": "A player can call for assistance from an ally. Each ally can only be called on once per mission. Difficult requests may require an action roll to determine its success.\nWhen a request is made the referee rolls a hidden Nemesis dice. They roll 1D6 and if the number is larger than the number of times allies have been called for help in this mission (totalled across all allies) the request goes through as normal. If the roll is equal to or lower the request is intercepted by a nemesis of one of the players. The ally does not help and the nemesis makes life more difficult for the PCs in some way.\nThe below are only suggestions. Please create your own as long as the referee is consulted and happy. Also feel free to use a below ally suggestion as a nemesis or vice versa.\nThrough play PCs may gain more Allies and/or Nemeses from the NPCs and enemies they interact with.\nAdditionally, the"
+  },
+  {
+    "objectID": "CHARACTER/ALLY_AND_NEMESIS.html#allies",
+    "href": "CHARACTER/ALLY_AND_NEMESIS.html#allies",
+    "title": "ALLY AND NEMESIS",
+    "section": "ALLIES",
+    "text": "ALLIES\n\nAcademic: A researcher with interest in something the player character does. Constantly asking questions but also very keen to answer any they can.\nCelebrity: This celebrity is a VIP and may be able to get you into a fancy restaurant or party.\nOfficer in a military: More likely for the military to overlook what the team is doing. Possibly even help depending on the situation.\nDoctor: A good source for healing.\nEx-merc mentor: A merc who is no longer on the field. Their knowledge and merc contacts can be very useful. The more flexible they are, the less powerful they are.\nPilot: Pilot of your team’s personal transport vehicle. Having them on your good side is never a bad thing.\nPrimeval deity: One of the deities has blessed you. If you take this then take one of the other deities as a nemesis. Most likely pairings are Nyxmera + Tartarus, or Proteus + Gaia.\nThe referee: You know the referee of this game of PUML. Seems pretty powerful so there must be a catch."
+  },
+  {
+    "objectID": "CHARACTER/ALLY_AND_NEMESIS.html#nemeses",
+    "href": "CHARACTER/ALLY_AND_NEMESIS.html#nemeses",
+    "title": "ALLY AND NEMESIS",
+    "section": "NEMESES",
+    "text": "NEMESES\n\nBounty hunter/detective: You have a bounty on your head somewhere. This person is emotionally invested in catching you.\nDoppelganger: This might be a clone/the real you/a changeling/an alien/android. Any which way it wants to replace you.\nHorror: Something is hunting you. It may be an eldritch being or a trans-dimensional creature. It could be a revenant of someone you betrayed or a spirit of a land you desecrated. You seemingly have no hope.\nPrimeval deity: One of the deities particularly dislikes you. If you take this then take one of the other deities as an ally. Most likely pairings are Nyxmera + Tartarus, or Proteus + Gaia.\nRival mercenary: A rival who may take on the same missions as you.\nSuper villain: Someone with a dastardly plan to change the world in some way. You may have foiled their plans in the past.\nTaxman: You washed the slate clean of your previous life. They all think you no longer exist, all except the taxman and they demand what you owe.\nTime & space bureau: You are not in the correct time and/or space. The bureau has someone searching for you to put you back in your right place."
+  },
+  {
     "objectID": "CHARACTER/CREATION.html",
     "href": "CHARACTER/CREATION.html",
     "title": "CREATION",
@@ -539,74 +665,179 @@
     "text": "CODENAME\nChoose a codename"
   },
   {
+    "objectID": "CHARACTER/DAY_JOB.html",
+    "href": "CHARACTER/DAY_JOB.html",
+    "title": "DAY JOB",
+    "section": "",
+    "text": "Below are some examples of Day jobs by belief, though you can choose any. These give no direct mechanical advantage. Rather it makes some narrative actions more likely or even possible for your characters. Additionally, if you use a skill or knowledge from your day job during your mission it helps you gain more Primal dice."
+  },
+  {
+    "objectID": "CHARACTER/DAY_JOB.html#suns-of-nyxmera",
+    "href": "CHARACTER/DAY_JOB.html#suns-of-nyxmera",
+    "title": "DAY JOB",
+    "section": "SUNS OF NYXMERA",
+    "text": "SUNS OF NYXMERA\nCAPTORS | ENTERTAINMENT | KNOWLEDGE | SKY & SPACE | WATCHERS\n\nACTOR\nAIRFORCE\nASSASSIN\nASTRONOMER\nBOUNTY HUNTER\nEDITOR\nENGINEER\nHACKER\nLIBRARIAN\nLIGHTING OPERATOR\nMETEOROLOGIST\nNEWS\nPILOT\nPOLICE\nPRISON WARDEN"
+  },
+  {
+    "objectID": "CHARACTER/DAY_JOB.html#dotters-of-tartarus",
+    "href": "CHARACTER/DAY_JOB.html#dotters-of-tartarus",
+    "title": "DAY JOB",
+    "section": "DOTTERS OF TARTARUS",
+    "text": "DOTTERS OF TARTARUS\nCAPITALISM & GREED | EARTH & ROCKS | GROUND FORCES | PHYSICAL LABOUR\n\nARMY\nBANKER\nDOT RAIDER\nHUMAN STATUE\nJEWELLER\nMINER\nPRISONER\nROADIE\nSCULPTOR\nSECURITY\nSEISMOLOGIST\nSPELUNKER\nSTOCKS\nWEIGHT LIFTER\nWRESTLER"
+  },
+  {
+    "objectID": "CHARACTER/DAY_JOB.html#proteans",
+    "href": "CHARACTER/DAY_JOB.html#proteans",
+    "title": "DAY JOB",
+    "section": "PROTEANS",
+    "text": "PROTEANS\nFLEXIBLE | MOVEMENT | NARCOTICS | WATER & SNOW\n\nAEROBICS INSTRUCTOR\nDANCER\nDELIVERIES\nDRUG DEALER\nDJ\nFIRE FIGHTER\nIMPROV COMIC\nMIME/CLOWN\nMUSICIAN\nNAVY\nPUBLIC TRANSPORT\nRACER\nSAILER\nWATER/SNOW SPORTS\nYOGA INSTRUCTOR"
+  },
+  {
+    "objectID": "CHARACTER/DAY_JOB.html#gaians",
+    "href": "CHARACTER/DAY_JOB.html#gaians",
+    "title": "DAY JOB",
+    "section": "GAIANS",
+    "text": "GAIANS\nCREATIVE | FOOD | LIFE | SOCIAL\n\nBIOLOGIST\nCHEF\nCONDUCTOR\nDIPLOMAT\nDOCTOR\nDOCUMENTARIAN\nECO WARRIOR\nFARMER\nMOTIVATIONAL SPEAKER\nPOLITICIAN\nSPIRITUALIST\nSOCIAL WORKER\nTHERAPIST\nTOUR GUIDE\nTRANSLATOR"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Overview",
+    "title": "INTRO",
     "section": "",
     "text": "PUML is a homebrewed variant of the FIST RPG. Whereas FIST is a high lethality system, PUML attempts to be less lethal allowing characters to more easily survive through a campaign.\nThis website mainly contains the mechanics for play and how to create characters. There is little about the theory of play or best practices. I recommend reading FIST ULTRA EDITION for more theory.\nThis rule set is built with my setting in mind. This is an alternative 1980s Earth where the Primeval deities influence its inhabitants. Most worship these deities and the world is divided into 6 superpowers and the Moon. The setting can be found at my Primeval Deities itch.io or website.\nUltimately how you use this RPG is up to you. You can use it along with its setting. You can take rules and traits from it for your FIST game. You can make your own homebrew and/or setting with the PUML rules.\nI hope you enjoy it!"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "Overview",
+    "title": "INTRO",
     "section": "Contact",
     "text": "Contact\nIf you would like to contact me you can donate and private message me on my Ko-fi with your contact details (you can donate a min of £1):"
   },
   {
     "objectID": "index.html#license",
     "href": "index.html#license",
-    "title": "Overview",
+    "title": "INTRO",
     "section": "License",
     "text": "License\nCreated for the FIST rpg by CLAYMORE - https://claymorerpgs.itch.io/\nFIST and these materials are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license."
   },
   {
-    "objectID": "intro/credits.html",
-    "href": "intro/credits.html",
-    "title": "Credits",
+    "objectID": "INTRO/CREDITS.html",
+    "href": "INTRO/CREDITS.html",
+    "title": "CREDITS",
     "section": "",
     "text": "M. R. Gemmell"
   },
   {
-    "objectID": "intro/credits.html#writing",
-    "href": "intro/credits.html#writing",
-    "title": "Credits",
+    "objectID": "INTRO/CREDITS.html#writing",
+    "href": "INTRO/CREDITS.html#writing",
+    "title": "CREDITS",
     "section": "",
     "text": "M. R. Gemmell"
   },
   {
-    "objectID": "intro/credits.html#illustration-design",
-    "href": "intro/credits.html#illustration-design",
-    "title": "Credits",
+    "objectID": "INTRO/CREDITS.html#illustration-design",
+    "href": "INTRO/CREDITS.html#illustration-design",
+    "title": "CREDITS",
     "section": "ILLUSTRATION & DESIGN",
     "text": "ILLUSTRATION & DESIGN\nM. R. Gemmell"
   },
   {
-    "objectID": "intro/credits.html#typefaces",
-    "href": "intro/credits.html#typefaces",
-    "title": "Credits",
+    "objectID": "INTRO/CREDITS.html#typefaces",
+    "href": "INTRO/CREDITS.html#typefaces",
+    "title": "CREDITS",
     "section": "TYPEFACES",
     "text": "TYPEFACES\n\nLexend\nMichroma\nRusso one"
   },
   {
-    "objectID": "intro/credits.html#icons",
-    "href": "intro/credits.html#icons",
-    "title": "Credits",
+    "objectID": "INTRO/CREDITS.html#icons",
+    "href": "INTRO/CREDITS.html#icons",
+    "title": "CREDITS",
     "section": "ICONS",
     "text": "ICONS\n\nThe Noun Project\nPhyloPic"
   },
   {
-    "objectID": "intro/credits.html#inspirations",
-    "href": "intro/credits.html#inspirations",
-    "title": "Credits",
+    "objectID": "INTRO/CREDITS.html#inspirations",
+    "href": "INTRO/CREDITS.html#inspirations",
+    "title": "CREDITS",
     "section": "INSPIRATIONS",
     "text": "INSPIRATIONS\n\nHellboy and B.P.R.D., Mike Mignola\nElden Ring, Hidetaka Miyazaki & George R. R. Martin\nThe Venture Bros., Jackson Pulick & Doc Hammer\nThe Avengers, Sydney Newman\nHalo, Bungie\nFIST, CLAYMORE\nMonster of the Week, Michael Sands\nBlades in the Dark, John Harper\nEscape from Dino Island, Sam Roberts"
   },
   {
-    "objectID": "intro/credits.html#license",
-    "href": "intro/credits.html#license",
-    "title": "Credits",
+    "objectID": "INTRO/CREDITS.html#license",
+    "href": "INTRO/CREDITS.html#license",
+    "title": "CREDITS",
     "section": "LICENSE",
     "text": "LICENSE\nCreated for the FIST rpg by CLAYMORE PUML is licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "objectID": "INTRO/FIST_COMPATIBILITY.html",
+    "href": "INTRO/FIST_COMPATIBILITY.html",
+    "title": "FIST COMPATIBILITY",
+    "section": "",
+    "text": "PUML is compatible with the rules, contents, and adventures of FIST. Whether you want to take parts of PUML and add them to your FIST game or the other way around. This is highly encouraged."
+  },
+  {
+    "objectID": "INTRO/FIST_COMPATIBILITY.html#attributes",
+    "href": "INTRO/FIST_COMPATIBILITY.html#attributes",
+    "title": "FIST COMPATIBILITY",
+    "section": "ATTRIBUTES",
+    "text": "ATTRIBUTES\nThe PUML attributes match the FIST attributes in the following way:\n\nEYES = TACTICAL (TAC)\nJAWS = FORCEFUL (FRC)\nLIMBS = REFLEXIVE (RFX)\nNERVES = CREATIVE (CRE)"
+  },
+  {
+    "objectID": "INTRO/FIST_COMPATIBILITY.html#emergency-insertion",
+    "href": "INTRO/FIST_COMPATIBILITY.html#emergency-insertion",
+    "title": "FIST COMPATIBILITY",
+    "section": "EMERGENCY INSERTION",
+    "text": "EMERGENCY INSERTION\nWhen a character dies in FIST the player creates a new character and then arrives into the current mission via an Emergency insertion. I have excluded this since death is more rare. Instead I suggest the player creates a new character but does not add an ally or nemesis. They can then jump into the mission when and how the Referee feels appropriate. After the mission, whether it’s directly after or some other time before the next session/mission, the player and referee can collaborate on the PC’s Ally and Nemesis."
+  },
+  {
+    "objectID": "INTRO/FIST_COMPATIBILITY.html#enemy-attributes",
+    "href": "INTRO/FIST_COMPATIBILITY.html#enemy-attributes",
+    "title": "FIST COMPATIBILITY",
+    "section": "ENEMY ATTRIBUTES",
+    "text": "ENEMY ATTRIBUTES\nTo allow players to use NPCs as allies during combat they are given attribute scores in PUML. This is not the case in FIST. You therefore might want to give stat blocks from FIST attribute scores to use in PUML. \nBelow are examples of what is a good baseline for each score from -3 to +4. This is not a perfect science. The 0 score ability examples give a good baseline to what the PCs characters should be capable of.\n\n\n\n\n\n\n\n\n\n\n\n\nRepresentative being\nEYES\nJAWS\nLIMBS\nNERVES\n\n\n-3\nIncompetent human\nIntoxicated person\nHunger striker\nStickler\nHermit\n\n\n-2\nUnskilled human\nDay dreamer\nCouch potato\nButterfingers\nHomebody\n\n\n-1\nNormal human\nOffice worker\nFactory worker\nFreelancer\nEvent coordinator\n\n\n0\nParanormal mercenary\nRifleman\nAthlete\nGymnast\nActor\n\n\n1\nSpecialised human\nSniper\nStrongman\nContortionist\nDoctor\n\n\n2\nS tier animal\nEagle\nElephant\nOctopus\nAnt/Bee queen\n\n\n3\nForce of nature\nInternet wide Artificial Super Intelligence\nSkyscraper sized Mecha or Kaiju\nShapeshifter\nHive mind\n\n\n4\nDeity\nNyxmera\nTartarus\nProteus\nGaia"
+  },
+  {
+    "objectID": "REFEREE/ALLIES_AND_NEMESES.html",
+    "href": "REFEREE/ALLIES_AND_NEMESES.html",
+    "title": "ALLIES & NEMESES",
+    "section": "",
+    "text": "A large part of the fun of running PUML is collaborating on the creation of the Allies & Nemeses with your players. You should encourage the imagination of the player whilst informing them of your setting and its tone. The Player should in turn create characters that fit into yoursetting and allow you the freedom to create character stat blocks you would enjoy running.\nAllies can be used during down time to create narrative moments with your player’s PCs. It is the responsibility of the players to call in their Allies during missions.\nA Nemesis arrives into the action due to the Nemesis dice when a player calls for Ally assistance. However, this does not limit the use of Nemeses. I encourage you to incorporate Nemeses into your campaign. Allow a Nemesis to be the big bad of a campaign. Maybe the Nemeses of the players all work for one evil organisation. The Nemesis does not need to directly interfere in a mission, they could send henchmen, provide weapons to the mission enemies, or hack the PCs’ Equipment. Don’t be afraid to have cutaway scenes showing a Nemesis in their lair mistreating their minions, spouting evil monologues, or scheming with other Nemeses. Use the Nemeses as you see fit incorporating suggestions from the players.\n\nIf this seems like a lot then take things slow. I like to run a few adventures and see how the characters develop. Then as inspiration hits I incorporate the PCs, Allies, and Nemeses into the campaign plans. Of course try to create loose plans to allow the players’ actions to change it."
+  },
+  {
+    "objectID": "REFEREE/BOSSES.html",
+    "href": "REFEREE/BOSSES.html",
+    "title": "BOSSES",
+    "section": "",
+    "text": "In PUML and FIST some enemies have Boss moves. A Boss can use their Boss move once per mission.\nBosses act as other enemies in Combat with 2 exceptions:\n\nIf there are less enemies than Defence actions on the Defence action tracker a Boss can act multiple times.\n\nA Boss can use their Boss move at any time during Combat. Using a Boss move does not affect the Action tracker."
+  },
+  {
+    "objectID": "REFEREE/CHARACTER_STAT_BLOCKS.html",
+    "href": "REFEREE/CHARACTER_STAT_BLOCKS.html",
+    "title": "CHARACTER STAT BLOCKS",
+    "section": "",
+    "text": "You can use the Enemy attributes table to help create your own stat blocks. There is a lot of guidance on creating stat blocks in the intelligence matrix of FIST Ultra edition.\n\n\n\n\n\n\n\n\n\n\n\n\nRepresentative being\nEYES\nJAWS\nLIMBS\nNERVES\n\n\n-3\nIncompetent human\nIntoxicated person\nHunger striker\nStickler\nHermit\n\n\n-2\nUnskilled human\nDay dreamer\nCouch potato\nButterfingers\nHomebody\n\n\n-1\nNormal human\nOffice worker\nFactory worker\nFreelancer\nEvent coordinator\n\n\n0\nParanormal mercenary\nRifleman\nAthlete\nGymnast\nActor\n\n\n1\nSpecialised human\nSniper\nStrongman\nContortionist\nDoctor\n\n\n2\nS tier animal\nEagle\nElephant\nOctopus\nAnt/Bee queen\n\n\n3\nForce of nature\nInternet wide Artificial Super Intelligence\nSkyscraper sized Mecha or Kaiju\nShapeshifter\nHive mind\n\n\n4\nDeity\nNyxmera\nTartarus\nProteus\nGaia"
+  },
+  {
+    "objectID": "REFEREE/REFEREE.html",
+    "href": "REFEREE/REFEREE.html",
+    "title": "REFEREE",
+    "section": "",
+    "text": "It is not easy running a TTRPG. Just because something is fun and/or fulfilling doesn’t mean it’s not hard and/or tiring. In this section are a few rules and tips for Referees.\nSome useful links for PUML include:\n\nMy Itch page for further PUML supplements and missions: https://m-gemmell.itch.io/\nCLAYMORE Itch page: https://claymorerpgs.itch.io/\nCompatible with FIST itch collection: https://itch.io/c/2461905/compatible-with-fist"
+  },
+  {
+    "objectID": "RESOURCES/RESOURCES.html",
+    "href": "RESOURCES/RESOURCES.html",
+    "title": "RESOURCES",
+    "section": "",
+    "text": "CHARACTER SHEET\nCOMBAT TRACKER"
+  },
+  {
+    "objectID": "RESOURCES/RESOURCES.html#printable-sheets",
+    "href": "RESOURCES/RESOURCES.html#printable-sheets",
+    "title": "RESOURCES",
+    "section": "",
+    "text": "CHARACTER SHEET\nCOMBAT TRACKER"
   },
   {
     "objectID": "RULES/ATTRIBUTES.html",

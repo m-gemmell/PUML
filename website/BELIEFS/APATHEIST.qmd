@@ -1,0 +1,15 @@
+---
+title: "APATHEIST"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+Although you know the deities exist you find no point in worshipping or worrying about them. You believe they do not care about you. You find meaning in yourself.
+
+## TENETS
+
+- Strive for unification
+- Observe and sow intrigue
+- Unleash your power!
+- Flow like water to adapt

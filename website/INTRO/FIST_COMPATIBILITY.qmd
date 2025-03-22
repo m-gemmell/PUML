@@ -1,0 +1,52 @@
+---
+title: "FIST COMPATIBILITY"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+**PUML** is compatible with the rules, contents, and adventures of FIST.
+Whether you want to take parts of **PUML** and add them to your **FIST** game or the other way around.
+This is highly encouraged. 
+
+## **ATTRIBUTES**
+
+The **PUML attributes** match the **FIST attributes** in the following way:
+
+-   **EYES** = **TACTICAL (TAC)**
+
+-   **JAWS** = **FORCEFUL (FRC)**
+
+-   **LIMBS** = **REFLEXIVE (RFX)**
+
+-   **NERVES** = **CREATIVE (CRE)**
+
+## **EMERGENCY INSERTION**
+
+When a character dies in **FIST** the **player** creates a new **character** and then arrives into the current mission via an **Emergency insertion**.
+I have excluded this since death is more rare.
+Instead I suggest the **player** creates a new **character** but does not add an **ally** or **nemesis**.
+They can then jump into the mission when and how the **Referee** feels appropriate.
+After the mission, whether it's directly after or some other time before the next session/mission, the **player** and **referee** can collaborate on the **PC’s Ally** and **Nemesis**. 
+
+## **ENEMY ATTRIBUTES**
+
+To allow players to use NPCs as allies during combat they are given attribute scores in **PUML**.
+This is not the case in **FIST**.
+You therefore might want to give stat blocks from **FIST** attribute scores to use in **PUML**. 
+
+Below are examples of what is a good baseline for each score from -3 to +4.
+This is not a perfect science.
+The 0 score ability examples give a good baseline to what the **PCs** characters should be capable of.
+
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+|  | **Representative being** | **EYES** | **JAWS** | **LIMBS** | **NERVES** |
+| **-3** | Incompetent human | Intoxicated person | Hunger striker | Stickler | Hermit |
+| **-2** | Unskilled human | Day dreamer | Couch potato | Butterfingers | Homebody |
+| **-1** | Normal human | Office worker | Factory worker | Freelancer | Event coordinator |
+| **0** | Paranormal mercenary | Rifleman | Athlete | Gymnast | Actor |
+| **1** | Specialised human | Sniper | Strongman | Contortionist | Doctor |
+| **2** | S tier animal | Eagle | Elephant | Octopus | Ant/Bee queen |
+| **3** | Force of nature | Internet wide Artificial Super Intelligence | Skyscraper sized Mecha or Kaiju | Shapeshifter | Hive mind |
+| **4** | Deity | Nyxmera | Tartarus | Proteus | Gaia |

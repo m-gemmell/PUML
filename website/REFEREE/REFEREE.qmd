@@ -1,0 +1,18 @@
+---
+title: "REFEREE"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+It is not easy running a **TTRPG**.
+Just because something is fun and/or fulfilling doesn’t mean it's not hard and/or tiring.
+In this section are a few rules and tips for **Referees**.
+
+Some useful links for PUML include:
+
+-   My Itch page for further **PUML** supplements and missions: <https://m-gemmell.itch.io/>
+
+-   CLAYMORE Itch page: <https://claymorerpgs.itch.io/>
+
+-   Compatible with **FIST** itch collection: <https://itch.io/c/2461905/compatible-with-fist>

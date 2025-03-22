@@ -1,0 +1,48 @@
+---
+title: "PANTHEONIC BLESSINGS"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+When you choose the **POLYTHEIST** **belief** gain the following benefits:
+
+-   __Erratic:__ At the start of a mission decide which of your attributes gains +2 and which gains -2, they must be different. These modifiers are removed at the end of the mission.
+-   __Blessed:__ Gain any __TRAIT__
+
+Gain the below **Gear packs**
+
+- At start of mission choose a pack
+- At end of mission lose the pack
+
+## HEAVY TROOPER
+
+The best offense is a good defence
+
+- Break-action shotgun (1D6+1 DAMAGE)
+- Riot shield (1 ARMOR, equip as weapon)
+- Steel plate armor (2 ARMOR)
+
+## SNIPER
+
+Far-reaching patient hunter
+
+- Sniper rifle (1D6+2 DAMAGE)
+- Combat knife (1D6 DAMAGE)
+- Camouflage tactical clothing (1 ARMOR)
+
+## MORALE OFFICER
+
+Inspiring fighter
+
+- Assault rifle (1D6+1 DAMAGE)
+- 2 heart stickers (1 use, give another character +1D3 to their next action roll of choice)
+- Tactical clothing (1 ARMOR)
+
+## VOYEUR
+
+Recon
+
+- Bow (1D6 DAMAGE)
+- Binoculars with heat & x-ray vision
+- Camouflage tactical clothing (1 ARMOR)

@@ -1,0 +1,88 @@
+---
+title: "DAY JOB"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+Below are some examples of __Day jobs__ by belief, though you can choose any. These give no direct mechanical advantage. Rather it makes some narrative actions more likely or even possible for your characters. Additionally, if you use a skill or knowledge from your day job during your mission it helps you gain more Primal dice.
+
+## SUNS OF NYXMERA
+
+CAPTORS | ENTERTAINMENT | KNOWLEDGE | SKY & SPACE | WATCHERS
+
+- ACTOR
+- AIRFORCE
+- ASSASSIN
+- ASTRONOMER
+- BOUNTY HUNTER
+- EDITOR
+- ENGINEER
+- HACKER
+- LIBRARIAN
+- LIGHTING OPERATOR
+- METEOROLOGIST
+- NEWS
+- PILOT
+- POLICE
+- PRISON WARDEN
+
+## DOTTERS OF TARTARUS
+
+CAPITALISM & GREED | EARTH & ROCKS | GROUND FORCES | PHYSICAL LABOUR
+
+- ARMY
+- BANKER
+- DOT RAIDER
+- HUMAN STATUE
+- JEWELLER
+- MINER
+- PRISONER
+- ROADIE
+- SCULPTOR
+- SECURITY
+- SEISMOLOGIST
+- SPELUNKER
+- STOCKS
+- WEIGHT LIFTER
+- WRESTLER
+
+## PROTEANS
+
+FLEXIBLE | MOVEMENT | NARCOTICS | WATER & SNOW
+
+- AEROBICS INSTRUCTOR
+- DANCER
+- DELIVERIES
+- DRUG DEALER
+- DJ
+- FIRE FIGHTER
+- IMPROV COMIC
+- MIME/CLOWN
+- MUSICIAN
+- NAVY
+- PUBLIC TRANSPORT
+- RACER
+- SAILER
+- WATER/SNOW SPORTS
+- YOGA INSTRUCTOR
+
+## GAIANS
+
+CREATIVE | FOOD |  LIFE | SOCIAL
+ 
+- BIOLOGIST
+- CHEF
+- CONDUCTOR
+- DIPLOMAT
+- DOCTOR
+- DOCUMENTARIAN
+- ECO WARRIOR
+- FARMER
+- MOTIVATIONAL SPEAKER
+- POLITICIAN
+- SPIRITUALIST
+- SOCIAL WORKER
+- THERAPIST
+- TOUR GUIDE
+- TRANSLATOR
