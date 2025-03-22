@@ -9,3 +9,7 @@ editor:
 
 - [CHARACTER SHEET](./PUML_character_sheet.pdf)
 - [COMBAT TRACKER](./PUML_combat_tracker.pdf)
+
+## WEBSITES
+
+- [PRIMEVAL DEITIES](https://m-gemmell.github.io/PRIMEVAL_DEITIES/): Faction information of the Primeval deities for the PUML RPG.

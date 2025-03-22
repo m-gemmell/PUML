@@ -6,7 +6,7 @@ editor:
 ---
 
 <center>
-![](images/Tartarus.png){style="width:200px; background:white; border-radius:25px; border:white 5px solid"}
+![](images/Tartarus.png){style="width:200px"}
 </center>
 
 <br>

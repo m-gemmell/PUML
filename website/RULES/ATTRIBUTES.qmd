@@ -9,7 +9,7 @@ There are four attributes for characters; EYES, TEETH, LIMBS, and HEART.
 
 ## EYES
 <center>
-![](images/eyes_attribute.png){style="width:200px; background:white; border-radius:25px"}
+![](images/eyes_attribute.png){style="width:200px"}
 </center>
 
 [Nyxmera](https://m-gemmell.github.io/Primeval_Deities_FIST/nyxmera.html) is the deity of the sky. Its eyes are the sun, stars, planets, and moons in the sky. __Nyxmera__ loves to watch, enjoying drama and comedy. It is knowledgeable and always hungers for new information.
@@ -26,7 +26,7 @@ You can roll __+EYES__ for assessing and manipulating a situation.
 
 ## JAWS
 <center>
-![](images/jaws_attribute.png){style="width:200px; background:white; border-radius:25px"}
+![](images/jaws_attribute.png){style="width:200px"}
 </center>
 
 [Tartarus](https://m-gemmell.github.io/Primeval_Deities_FIST/tartarus.html) is the deity of the earth. Its __jaws__ are the entrances into its domain and its prison, The DOT. It is angry, greedy and destructive.
@@ -42,7 +42,7 @@ You can roll __+JAWS__ for bouts of strength, violence, or rage.
 
 ## LIMBS
 <center>
-![](images/limbs_attribute.png){style="width:200px; background:white; border-radius:25px"}
+![](images/limbs_attribute.png){style="width:200px"}
 </center>
 
 [Proteus](https://m-gemmell.github.io/Primeval_Deities_FIST/proteus.html) is the deity of water.
@@ -62,7 +62,7 @@ These include:
 
 ## BRAIN
 <center>
-![](images/nerves_attribute_final.png){style="width:200px; background:white; border-radius:25px"}
+![](images/nerves_attribute_final.png){style="width:200px"}
 </center>
 
 [Gaia](https://m-gemmell.github.io/Primeval_Deities_FIST/gaia.html) is the deity of life.

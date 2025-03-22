@@ -1,0 +1,19 @@
+---
+title: "PANIC"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+Some NPCs have a PANIC score.
+An NPC may PANIC when in a stressful situation.
+
+If appropriately stressed roll a D6 for an NPC.
+If the roll is equal to or higher than their PANIC score they will PANIC.
+The NPC then carries out the PANIC text.
+
+PANIC scores range from 1 to 6.
+A PANIC score of 1 means they will always PANIC when they make a PANIC roll.
+A PANIC score of 6 means they have a 1 in 6 chance of panicking.
+
+__NOTE:__ The PANIC score is a renamed version of the CHOKE score from the FIST RPG. 

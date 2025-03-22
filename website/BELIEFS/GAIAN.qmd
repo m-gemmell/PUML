@@ -6,7 +6,7 @@ editor:
 ---
 
 <center>
-![](images/Gaia.png){style="width:200px; background:white; border-radius:25px; border:white 5px solid"}
+![](images/Gaia.png){style="width:200px"}
 </center>
 
 <br>

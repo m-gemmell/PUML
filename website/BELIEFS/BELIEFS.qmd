@@ -12,3 +12,5 @@ Six are included in these materials:
 - [DOTTER OF TARTARUS](/BELIEFS/DOTTERS_OF_TARTARUS.qmd): Power, destruction, and liberation.
 - [PROTEAN](/BELIEFS/PROTEAN.qmd): Flow, flexibility, and perseverance.
 - [GAIAN](/BELIEFS/GAIAN.qmd): Unify, lead, and emotive.
+- [POLYTHEIST](/BELIEFS/POLYTHEIST.qmd): Follower and chosen by the four Primeval deities.
+- [APATHEIST](/BELIEFS/APATHEIST.qmd): Find meaning in youreslf.

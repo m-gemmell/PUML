@@ -36,7 +36,7 @@ When a __FAILURE__ or __COMPLICATION__ comes about due to an __Action roll__ the
 ## ATTRIBUTES
 
 There are four attributes: **EYES**, **JAWS**, **LIMBS**, and **NERVES**.
-See more info on the [ATTRIBUTES] page.
+See more info on the [ATTRIBUTES](/RULES/ATTRIBUTES.qmd) page.
 Each of your attributes have a minimum and maximum of -3 and +3.
 
 ## PRIMAL DICE

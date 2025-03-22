@@ -19,8 +19,14 @@ You start with:
 
 Choose a [BELIEF](/BELIEFS/BELIEFS.qmd).
 
+Below are the beliefs available in these materials:
+
 -   [SUN OF NYXMERA](/BELIEFS/SUN_OF_NYXMERA.qmd)
 -   [DOTTER OF TARTARUS](/BELIEFS/DOTTER_OF_TARTARUS.qmd)
+-   [PROTEAN](/BELIEFS/PROTEAN.qmd)
+-   [GAIAN](/BELIEFS/GAIAN.qmd)
+-   [POLYTHEIST](/BELIEFS/POLYTHEIST.qmd)
+-   [APATHEIST](/BELIEFS/APATHEIST.qmd)
 
 ## DAY JOB
 

@@ -11,11 +11,22 @@ $ibm-maroon: #dc267f;
 $ibm-orange: #fe6100;
 $ibm-yellow: #ffb000;
 
+$pale: #F5ECE0;
+$pale-blue: #5F99AE;
+$dark-blue: #336D82;
+$dark-purple:#693382;
+
+$pd-red: #e6194b;
+$pd-purple: #911eb4;
+$pd-yellow: #ffe119;
+$pd-blue: #0082c8;
+
+
 // Base document colors
-$navbar-bg: $ibm-purple;
-$navbar-hl: $ibm-yellow; // highlight color when hovering over navbar links
-$footer-bg: $ibm-purple; // footer
-$sidebar-hl: $ibm-blue;
+$navbar-bg: $dark-purple;
+$navbar-hl: $pd-yellow; // highlight color when hovering over navbar links
+$footer-bg: $dark-purple; // footer
+$sidebar-hl: $pd-blue;
 
 $link-color: $ibm-blue;
 

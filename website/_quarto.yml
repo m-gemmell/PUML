@@ -134,7 +134,7 @@ format:
       gutter-width: 0.75em
     #HTML themes: https://quarto.org/docs/output-formats/html-themes.html
     theme: 
-      dark: [cyborg, styles.scss]
+      dark: [darkly, styles.scss]
       light: [cosmo, styles.scss]
     mainfont: Lexend
     toc: true

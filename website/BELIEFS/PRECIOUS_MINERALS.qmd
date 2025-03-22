@@ -6,7 +6,7 @@ editor:
 ---
 
 <center>
-![](images/Talos.png){style="width:200px; background:white; border-radius:25px"}
+![](images/Talos.png){style="width:200px"}
 </center>
 
 <br>
