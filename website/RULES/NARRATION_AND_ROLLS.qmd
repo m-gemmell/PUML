@@ -1,11 +1,11 @@
 ---
-title: "NARRATION AND ROLLS"
+title: "Narration and rolls"
 editor: 
   markdown: 
     wrap: sentence
 ---
 
-## NARRATION
+## Narration
 
 Much of the game will consist of collaborative narration between the **players** and **referee**.
 The referee narrates the world and the entities within it.
@@ -16,7 +16,7 @@ Most tasks you want your character to perform will automatically succeed.
 Your character is a well trained mercenary and so they can carry out many tasks without risk of failure.
 You have tactical infinity, be smart and creative and you may only need to resort to **combat** sometimes.
 
-## ACTION TURN
+## Action turn
 
 Tasks the player characters wish to do that are risky or contain an element of chance will be decided by an **action turn**.
 The player rolls an **action roll**.
@@ -29,41 +29,41 @@ Results are:
 -   10+: **Success**
 -   Two 6s: **Ultra success** (Something amazing happens)
 
-## DILEMMAS
+## Dilemmas
 
-When a __FAILURE__ or __COMPLICATION__ comes about due to an __Action roll__ the __Referee__ may provide a __Dilemma__. This consists of giving the __Player__ two bad choices and the __Player__ chooses which they prefer/least dislike.
+When a __Failure__ or __Cimplication__ comes about due to an __Action roll__ the __Referee__ may provide a __Dilemma__. This consists of giving the __Player__ two bad choices and the __Player__ chooses which they prefer/least dislike.
 
-## ATTRIBUTES
+## Attributes
 
 There are four attributes: **EYES**, **JAWS**, **LIMBS**, and **NERVES**.
 See more info on the [ATTRIBUTES](/RULES/ATTRIBUTES.qmd) page.
 Each of your attributes have a minimum and maximum of -3 and +3.
 
-## PRIMAL DICE
+## Primal dice
 
-As many available **PRIMAL** **DICE** (**D6**) can be added to any roll.
+As many available **Primal dice** (**D6**) can be added to any roll.
 This includes **action** rolls and **damage** **rolls**.
-Anyone can add **PRIMAL** **DICE** to anyone’s rolls including the referee’s.
+Anyone can add **Primal dice** to anyone’s rolls including the referee’s.
 
-**PRIMAL** **DICE** are a 1 use bonus that you can have unlimited stock of.
-**PRIMAL** **DICE** are granted by the referee when they deem fit, at character creation, and as levelling rewards.
+**Primal dice** are a 1 use bonus that you can have unlimited stock of.
+**Primal dice** are granted by the referee when they deem fit, at character creation, and as levelling rewards.
 
-## TAG TEAM ACTION
+## Tag team action
 
-Two characters controlled by the players (**PCs** and/or **allies**) can perform a **TAG** **TEAM** **ACTION**. This can be carried out in or outside of combat.
+Two characters controlled by the players (**PCs** and/or **allies**) can perform a **Tag team action**. This can be carried out in or outside of combat.
 The characters’ player/s describe how they work together.
 Then each character rolls a D6 + the relevant attribute for what each character is doing.
 These 2 values are summed and resolved like a normal action roll.
 
 For example: Dutch wants to throw Trashman over a wall who will then land and roll on the other side.
 Dutch rolls a **D6+JAWS** whilst Trashman rolls a **D6+LIMBS**.
-They add their 2 values together to determine the success of the **TAG** **TEAM** **ACTION**.
+They add their 2 values together to determine the success of the **Tag team action**.
 
-## ADVANTAGE & DISADVANTAGE
+## Advantage & disadvantage
 
 Add a **D6** to an **action roll**, remove the lowest/highest (**advantage/disadvantage**).
 
-## DICE
+## Dice
 
 Most of the dice used in PUML are six sided dice with the number 1, 2, 3, 4, 5, & 6 on their faces, known as a D6. Their are many ways to roll one or a combination of D6s.
 

@@ -1,5 +1,5 @@
 ---
-title: "COMBAT"
+title: "Combat"
 editor: 
   markdown: 
     wrap: sentence
@@ -15,11 +15,11 @@ PCs only are in **Combat** and can take **combat actions** if they fulfill the t
 **Combat** normally ends by defeating all enemy forces or retreating/escaping.
 Escaping/retreating may require **non-combat action turns**.
 
-## **PHASES**
+## **Phases**
 
 **Offense:** Players take turns taking **offense actions** with either their **PCs** or allied **NPCs**.
 They normally narrate how they want to harm/hinder the enemy with the **action roll** determining the **outcome**.
-However, they may perform other tasks. 
+However, they may perform other tasks.
 
 **Defence:** The **enemy** attacks and the players narrate how they intend to avoid the damage/hindrance.
 The player performs a **defence action** turn to determine the **outcome**.
@@ -28,27 +28,27 @@ The **phase** changes when X **combat action turns** have been taken (see below)
 
 An **Offense phase** & **Defence phase** equals a **combat round**.
 
-## **OFFENSE OUTCOMES**
+## **Offense outcomes**
 
-**FAILURE:** **No damage** dealt, +1 extra space moved on **Offense** **Action tracker**
+**Failure:** **No damage** dealt, +1 extra space moved on **Offense** **Action tracker**
 
-**PARTIAL SUCCESS:** Character **deals damage** but suffers an **offense complication**
+**Partial success:** Character **deals damage** but suffers an **offense complication**
 
-**SUCCESS:** Character **deals damage**
+**Success:** Character **deals damage**
 
-**ULTRA SUCCESS:** Character **deals damage** & something amazing occurs
+**Ultra success:** Character **deals damage** & something amazing occurs
 
-## **DEFENCE OUTCOMES**
+## **Defence outcomes**
 
-**FAILURE:** Character **takes damage**
+**Failure:** Character **takes damage**
 
-**PARTIAL SUCCESS:** Roll on **defence complications table**
+**Partial success:** Roll on **defence complications table**
 
-**SUCCESS:** +1 extra space moved on **Defence Action tracker**
+**Success:** +1 extra space moved on **Defence Action tracker**
 
-**ULTRA SUCCESS:** Immediately change to **Offense phase** & something amazing occurs
+**Ultra success:** Immediately change to **Offense phase** & something amazing occurs
 
-## **COMBAT THREAT & ACTION TRACKER**
+## **Combat threat & action trackker**
 
 At the start of **combat** the **combat threat** is set to an appropriate level.
 
@@ -60,7 +60,7 @@ This is a maximum of 3 and a minimum of 1.
 
 Each **character** (**PCs**, **allies**, **NPCs**, and **enemies**) can only **attack once per phase**.
 
-Each charactercan be attacked multiple times per **Defence phase**.
+Each character can be attacked multiple times per **Defence phase**.
 
 **Tag team actions** count as **1 action** during an **Offense or Defence phase**.
 If used during the **Offense phase** both characters can no longer act in the current phase. 
@@ -77,7 +77,7 @@ Examples include:
 
 -   A boss is neutralised
 
-## **COMBAT THREAT LEVELS**
+## **Combat threat levels**
 
 **Level 1:** The players’ crew have an overwhelming advantage.
 They may have ambushed their enemies or have carried out a pitch perfect plan leading to combat.
@@ -89,40 +89,40 @@ Neither the players or the enemies have a particular advantage. 
 Their plan may have horribly failed.
 They may have angered the enemies as they were trying to be diplomatic with them in their base.
 
-## **THREAT & ACTION TRACKER**
+## **Threat & action tracker**
 
 |         |     |     |     |     |     |
 |---------|-----|-----|-----|-----|-----|
-| THREAT  | 1   | 2   | 3   | 4   | 5   |
-| OFFENSE |     |     | 3   | 2   | 1   |
-| DEFENCE | 1   | 2   | 3   |     |     |
+| Threat  | 1   | 2   | 3   | 4   | 5   |
+| Offense |     |     | 3   | 2   | 1   |
+| Defence | 1   | 2   | 3   |     |     |
 
-## **OUTCOMES**
+## **Outcomes**
 
 +----------------------------+-------------------------------+--------------------------+
 |                            | **OFFENSE**                   | **DEFENCE**              |
 +----------------------------+-------------------------------+--------------------------+
-| **FAILURE (6-)**           | **+1** on **ACTION TRACKER**  | **FULL DAMAGE**          |
+| **Failure(6-)**            | **+1** on **Action tracker**  | **Full damage**          |
 +----------------------------+-------------------------------+--------------------------+
-| **PARTIAL SUCCESS (7-9)**  | **DAMAGE** & **COMPLICATION** | **COMPLICATION**         |
+| **Partial success (7-9)**  | **Damage** & **Complication** | **Complication**         |
 +----------------------------+-------------------------------+--------------------------+
-| **SUCCESS (10+)**          | **DAMAGE**                    | **+1 on ACTION TRACKER** |
+| **Success (10+)**          | **Damage**                    | **+1 on Action tracker** |
 +----------------------------+-------------------------------+--------------------------+
-| **ULTRA SUCCESS (Two 6s)** | **DAMAGE** & \                | **Go to OFFENSE** & **\  |
+| **Ultra success (Two 6s)** | **Damage**&\                  | **Go to Offense** & **\  |
 |                            | **Something amazing**         | Something amazing**      |
 +----------------------------+-------------------------------+--------------------------+
 
-## **COMPLICATIONS & ULTRA SUCCESSES**
+## **Complications & ultra successes**
 
-**Complications** can be completely made up by the referee or you can use one of the examples below. 
+**Complications** can be completely made up by the referee or you can use one of the examples below.
 
-When a player rolls an **ULTRA SUCCESS** **something amazing happens!** The referee should collaborate with the player to determine what amazing thing occurs.
+When a player rolls an **Ultra success** **something amazing happens!** The referee should collaborate with the player to determine what amazing thing occurs.
 Examples are below.
 
 If you use an example below try to describe how the effect comes about in the game world.
 
 +----------------------------------------+-------------------------------------+
-| **COMPLICATIONS**                      | **ULTRA SUCCESS**                   |
+| **Complications**                      | **Ultra success**                   |
 +========================================+=====================================+
 | -   Durability loss                    | -   Deal Double DAMAGE              |
 |                                        |                                     |

@@ -1,5 +1,5 @@
 ---
-title: "CELESTIAL PRIVILEGES"
+title: "Celestial privileges"
 editor: 
   markdown: 
     wrap: sentence
@@ -15,14 +15,14 @@ When you choose the **Sun of Nyxmera** **belief** gain the following benefits:
 
 -   **Perceptive:** Gain **+1 EYES**
 -   **Weak:** Gain **-1 JAWS**
--   __Star:__ Gain a __COSMIC TRAIT__
+-   __Star:__ Gain a __Cosmic trait__
 
 Gain the below **Gear packs**
 
 - At start of mission choose a pack
 - At end of mission lose the pack
 
-## LIGHT TROOPER
+## Light trooper
 
 Shock and awe
 
@@ -30,7 +30,7 @@ Shock and awe
 - 2 stun grenades (temporary blinding, one use)
 - Hard light shield generator (1 ARMOR, accessory)
 
-## SHUTTERBUG
+## Shutterbug
 
 Kidnapping & assassination
 
@@ -38,7 +38,7 @@ Kidnapping & assassination
 - Combat syringe with 1 vial that either kills or knocks out an entity with 5 or less HP
 - Hand prison: handheld device that stores any willing, unconscious, or dead entity
 
-## SUPERVISER
+## Superviser
 
 Technical operations
 
@@ -46,7 +46,7 @@ Technical operations
 - 2 Medkits (1 use, +1D6+EYES HP)
 - 1 Floppy disk (1 use, hack with one of the following keywords: Ransomware, Decrypt, Virus, Login, or Loop)
 
-## VOYEUR
+## Voyeur
 
 Recon
 

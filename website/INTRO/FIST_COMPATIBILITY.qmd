@@ -1,5 +1,5 @@
 ---
-title: "FIST COMPATIBILITY"
+title: "Fist compatibility"
 editor: 
   markdown: 
     wrap: sentence
@@ -7,9 +7,9 @@ editor:
 
 **PUML** is compatible with the rules, contents, and adventures of FIST.
 Whether you want to take parts of **PUML** and add them to your **FIST** game or the other way around.
-This is highly encouraged. 
+This is highly encouraged.
 
-## **ATTRIBUTES**
+## **Attributes**
 
 The **PUML attributes** match the **FIST attributes** in the following way:
 
@@ -21,15 +21,15 @@ The **PUML attributes** match the **FIST attributes** in the following way:
 
 -   **NERVES** = **CREATIVE (CRE)**
 
-## **EMERGENCY INSERTION**
+## **Emergency insertion**
 
 When a character dies in **FIST** the **player** creates a new **character** and then arrives into the current mission via an **Emergency insertion**.
 I have excluded this since death is more rare.
 Instead I suggest the **player** creates a new **character** but does not add an **ally** or **nemesis**.
 They can then jump into the mission when and how the **Referee** feels appropriate.
-After the mission, whether it's directly after or some other time before the next session/mission, the **player** and **referee** can collaborate on the **PC’s Ally** and **Nemesis**. 
+After the mission, whether it's directly after or some other time before the next session/mission, the **player** and **referee** can collaborate on the **PC’s Ally** and **Nemesis**.
 
-## **ENEMY ATTRIBUTES**
+## **Enemy attributes**
 
 To allow players to use NPCs as allies during combat they are given attribute scores in **PUML**.
 This is not the case in **FIST**.

@@ -1,21 +1,21 @@
 ---
-title: "SELF ACTUALISATIONS"
+title: "Self actualisations"
 editor: 
   markdown: 
     wrap: sentence
 ---
 
-When you choose the **APATHEIST** **belief** gain the following benefits:
+When you choose the **Apatheist** **belief** gain the following benefits:
 
 -   __Willful:__ Gain +1D4+2 max HP & +1D6 PRIMAL DICE
--   __Determined:__ Gain any __TRAIT__
+-   __Determined:__ Gain any __Trait__
 
 Gain the below **Gear packs**
 
 - At start of mission choose a pack
 - At end of mission lose the pack
 
-## ELITE
+## Elite
 
 Hi-tech gear
 
@@ -23,7 +23,7 @@ Hi-tech gear
 - EMP grenade (1 use)
 - Power armor (2 ARMOR)
 
-## PHANTOM
+## Phantom
 
 Undetectable nobody
 
@@ -31,7 +31,7 @@ Undetectable nobody
 - Security blocker (1 use, prevents user from being perceived by electronic security systems for limited time)
 - Amnesia ray (1 use, target forgets the previous 2 minutes and the next 1 minute)
 
-## SPACE MANIPULATOR
+## Space manipulator
 
 Thinking with portals
 
@@ -39,7 +39,7 @@ Thinking with portals
 - Red portal device (1 use, create a red portal on a flat surface that connects to the blue portal)
 - Blue portal device (1 use, create a blue portal on a flat surface that connects to the red portal)
 
-## VEHICLE SPECIALIST
+## Vehicle specialist
 
 Hit and run
 

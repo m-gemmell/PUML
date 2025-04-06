@@ -1,5 +1,5 @@
 ---
-title: "BELIEFS"
+title: "Beliefs"
 editor: 
   markdown: 
     wrap: sentence
@@ -8,9 +8,9 @@ editor:
 Beliefs are akin to classes in other TTRPGs. 
 Six are included in these materials:
 
-- [SUN OF NYXMERA](/BELIEFS/SUN_OF_NYXMERA.qmd): Observation, duality, & manipulation.
-- [DOTTER OF TARTARUS](/BELIEFS/DOTTERS_OF_TARTARUS.qmd): Power, destruction, and liberation.
-- [PROTEAN](/BELIEFS/PROTEAN.qmd): Flow, flexibility, and perseverance.
-- [GAIAN](/BELIEFS/GAIAN.qmd): Unify, lead, and emotive.
-- [POLYTHEIST](/BELIEFS/POLYTHEIST.qmd): Follower and chosen by the four Primeval deities.
-- [APATHEIST](/BELIEFS/APATHEIST.qmd): Find meaning in youreslf.
+- [Sun of Nyxmera](/BELIEFS/SUN_OF_NYXMERA.qmd): Observation, duality, & manipulation.
+- [Dotter of Tartarus](/BELIEFS/DOTTERS_OF_TARTARUS.qmd): Power, destruction, and liberation.
+- [Protean](/BELIEFS/PROTEAN.qmd): Flow, flexibility, and perseverance.
+- [Gaian](/BELIEFS/GAIAN.qmd): Unify, lead, and emotive.
+- [Polytheist](/BELIEFS/POLYTHEIST.qmd): Follower and chosen by the four Primeval deities.
+- [Apatheist](/BELIEFS/APATHEIST.qmd): Find meaning in yourself.

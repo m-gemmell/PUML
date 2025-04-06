@@ -1,5 +1,5 @@
 ---
-title: "ATTRIBUTES"
+title: "Attributes"
 editor: 
   markdown: 
     wrap: sentence
@@ -46,7 +46,7 @@ You can roll __+JAWS__ for bouts of strength, violence, or rage.
 </center>
 
 [Proteus](https://m-gemmell.github.io/Primeval_Deities_FIST/proteus.html) is the deity of water.
-Its limbs represent how it reaches into and shapes living systems whilst in turn being shaped by them.
+Its __limbs__ represent how it reaches into and shapes living systems whilst in turn being shaped by them.
 It is adaptable, calm, and flowing.
 
 You can roll __+LIMBS__ for fast and fluid movements.

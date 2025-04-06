@@ -1,11 +1,11 @@
 ---
-title: "GROUNDED TRAITS"
+title: "Grounded traits"
 editor: 
   markdown: 
     wrap: sentence
 ---
 
-## GRAVITY LIFT
+## Gravity lift
 
 **Once per mission** you can create 1 gravity lift.
 These cylinders of reverse gravity can be up to the diameter of a normal bicycle wheel.
@@ -15,7 +15,7 @@ The gravity lift lasts till you dismiss it or till the end of the mission.
 
 Stabilise and thrust boots (1 use, prevents fall damage) & **+1 EYES**
 
-## **KAIJU:** 
+## **Kaiju** 
 
 You can transform into a kaiju no larger than a cargo container.
 When you choose this trait, also choose the form of your kaiju.
@@ -28,7 +28,7 @@ You get the following when in your kaiju form:
 -   Your natural melee weapons deal **2D6 DAMAGE**
 
 All your gear is absorbed into your kaiju form so it cannot be used.
-When you return to normal you are wearing and wielding your gear normally. 
+When you return to normal you are wearing and wielding your gear normally.
 
 Your form lasts till you reach 0HP, dismiss it, or till the end of the mission.
 Any excess damage you take is suffered by your normal form.
@@ -40,11 +40,11 @@ Each can only be chosen once.
 
 -   Your natural melee weapons deal **4D6 DAMAGE**
 
--   Your kaiju form size increases to that of a 3 bedroom house and you gain **+10 HP** 
+-   Your kaiju form size increases to that of a 3 bedroom house and you gain **+10 HP**
 
 Life preserving airbag suit (accessory) & **-2 EYES**
 
-## **METAL EATER** 
+## **Metal eater** 
 
 You have extremely strong teeth and jaws.
 You are able to bite through small rocks & thin metal, such as wire metal fences, with no issue.
@@ -56,10 +56,10 @@ If you currently don’t have enough teeth you cannot make the attempt.
 
 A full set of 36 of your fallen out teeth & **+1 JAWS**
 
-## **PERCUSSIVE MAINTENANCE**
+## **Percussive maintenance**
 
 You are an easily frustrated fixer.
-You can attempt to fix, unlock, hack etc., any mechanical or electronic device that is the size of a personal  computer or smaller with percussive maintenance.
+You can attempt to fix, unlock, hack etc., any mechanical or electronic device that is the size of a personal computer or smaller with percussive maintenance.
 If so, roll an **EYES** roll and a **JAWS** roll.
 Resolve the higher of the 2 rolls.
 If the **EYES** is higher and successful you carry out the task based on the intention and the **roll's outcome**.
@@ -67,17 +67,17 @@ If the percussive maintenance roll (**JAWS**) is higher you smash the device int
 
 Large wrench (1D6 DAMAGE) & **+1 JAWS**
 
-## **PINBALL-WIZARD**
+## **Pinball-wizard**
 
 You have complete control of up to 13 pinball sized metal ball bearings.
 You can make them fly or roll at high speeds.
 
 Bag of pinballs & **+2 LIMBS**
 
-## **STURDY**
+## **Sturdy**
 
 You can take more damage than the normal human.
-Recalculate your **max HP** with **9 + 3\*Level + 1D6\*the number of HP rewards chosen**.
+Recalculate your **max HP** with **9 + 3 X Level + 1D6 X the number of HP rewards chosen**.
 Whenever you **Level up**, gain +**3 max HP** rather than +2 and roll a **D6 for HP rewards** rather than a D4.
 
 Heavy riot shield (2 ARMOR, equip as weapon) & **+1 NERVES**

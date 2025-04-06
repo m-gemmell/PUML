@@ -1,28 +1,30 @@
 ---
-title: "CREDITS"
+title: "Credits"
 editor: 
   markdown: 
     wrap: sentence
 ---
 
-## WRITING
+## Writing
 M. R. Gemmell
 
-## ILLUSTRATION & DESIGN
+## Illustration & design
 M. R. Gemmell
+Website made with [quarto](https://quarto.org/)
+Hosted on 
 
-## TYPEFACES
+## Typefaces
 
 - Lexend
 - Michroma
 - Russo one
 
-## ICONS
+## Icons
 
-- The Noun Project
-- PhyloPic
+- [The Noun Project](https://thenounproject.com/)
+- [PhyloPic](https://www.phylopic.org/)
 
-## INSPIRATIONS
+## Inspirations
 - Hellboy and B.P.R.D., Mike Mignola
 - Elden Ring, Hidetaka Miyazaki & George R. R. Martin
 - The Venture Bros., Jackson Pulick & Doc Hammer
@@ -33,9 +35,18 @@ M. R. Gemmell
 - Blades in the Dark, John Harper 
 - Escape from Dino Island, Sam Roberts
 
-## LICENSE
+## License
 
 Created for the FIST rpg by CLAYMORE
 PUML is licensed under CC BY 4.0:
 https://creativecommons.org/licenses/by/4.0/
+
+## Software
+
+- Website made with [quarto](https://quarto.org/)
+- [RStudio Desktop](https://posit.co/download/rstudio-desktop/) used as GUI interface for quarto
+- Hosted on [GitHub Pages](https://pages.github.com/)
+- [GIMP](https://www.gimp.org/) used for image creation/editing
+
+
 

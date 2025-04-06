@@ -1,15 +1,15 @@
 ---
-title: "EQUIPMENT"
+title: "Equipment"
 editor: 
   markdown: 
     wrap: sentence
 ---
 
-## **WEAPONS**
+## **Weapons**
 
 **Weapons** can be used to hurt and **Damage** other characters and objects.
 Action rolls are always required to deal **Damage**.
-When dealing **Damage** roll the specified **Damage Dice** and add any base **Damage**. 
+When dealing **Damage** roll the specified **Damage Dice** and add any base **Damage**.
 
 Rolling a 4 for the **Dice** of a **Hand cannon (1D6+1 DAMAGE)** would deal **5 DAMAGE**.
 
@@ -18,63 +18,63 @@ Rolling a 4 for the **Dice** of a **Hand cannon (1D6+1 DAMAGE)** would deal **5 
 **Weapons** can also be used creatively, limited by the type of weapon it is.
 A light machine gun could be used to suppress fire whilst a blade could be used to cut a rope or cable.
 
-## **ARMOR**
+## **Armor**
 
 When a character is dealt **Damage** they **reduce** the **Damage** amount by their total **Armor** amount.
 
-## **ACCESSORY**
+## **Accessory**
 
 Some **Equipment** have the **Accessory** property.
 If appropriately narrated an **Accessory** can be used to negate all **Damage** from one source.
-The **Accessory** is then **destroyed**. 
+The **Accessory** is then **destroyed**.
 
 **PCs** and **NPCs** can use **Accessories**.
 
-## **EQUIPMENT DURABILITY**
+## **Equipment durability**
 
 **Equipment**, such as **Weapons** and **Armor**, have 3 **Durability** states.
 
--   **GOOD:** The **Equipment** is in a good state.
+-   **Good:** The **Equipment** is in a good state.
 
--   **DAMAGED:** The **Equipment** has been damaged.
+-   **Damaged:** The **Equipment** has been damaged.
     This may occur from a complication in combat or otherwise.
     The weapon functions as normal but is close to a **Broken** state.
 
--   **BROKEN:** The **Equipment** is irrevocably **Broken**.
+-   **Broken:** The **Equipment** is irrevocably **Broken**.
     You can no longer use the **Equipment** and it is impossible to fix.
     Normally only **Damaged Equipment** can become **Broken** but a severe complication may cause a piece of **Equipment** to go straight from **Good** to **Broken**.
 
 **Broken equipment** can be repaired with the correct gear or through a **Rendezvous point**.
 **Broken** pieces of **Equipment** remain **Broken** between missions unless it is a trait item, in which case it is automatically repaired to **Good**.
 
-## **VEHICLES**
+## **Vehicles**
 
-**VEHICLES** can be driven by any character as long as they have the keys/codes or can hotwire/hack it.
+**Vehicles** can be driven by any character as long as they have the keys/codes or can hotwire/hack it.
 
-The only stats **VEHICLES** have are **HP** and **ARMOR**.
+The only stats **Vehicles** have are **HP** and **Armor**.
 Once a **vehicle** reaches **0HP** it is no longer usable.
 The capabilities of a vehicle beyond these stats are up to the referee and players.
 
-## **MISC**
+## **Misc**
 
--   **EQUIPPED WEAPONS:** Only one weapon can be equipped at a time.
+-   **Equipped weapons:** Only one weapon can be equipped at a time.
 
--   **EQUIPPED ARMOR:** Only one main piece of armor can be equipped at a time.
+-   **Equipped armor:** Only one main piece of armor can be equipped at a time.
 
--   **EQUIPPED HEADGEAR:** Only one piece of headgear can be equipped at a time.
+-   **Equipped headgear:** Only one piece of headgear can be equipped at a time.
 
--   **WORN GEAR:** As much gear can be worn as makes sense.
+-   **Worn gear:** As much gear can be worn as makes sense.
 
--   **TRAIT & BELIEF GEAR:** Any of these items that are used/broken are replaced at the start of a new mission.
+-   **Trait & belief gear:** Any of these items that are used/broken are replaced at the start of a new mission.
     They do not count towards encumbrance.
 
-**ENCUMBRANCE:** 10 total extra items (non trait or belief gear) can be carried at any one time by each character.
+- **Encumbrance:** 10 total extra items (non trait or belief gear) can be carried at any one time by each character.
 
-## __EQUPIMENT TABLES__
+## __Equipment tables__
 
 The Below equipment tables are from the [FIST ULTRA EDITION](https://claymorerpgs.itch.io/fist)
 
-## **WEAPONS**
+### **Weapons**
 
 |      |                      |              |      |                     |              |
 |------|----------------------|--------------|------|---------------------|--------------|
@@ -97,7 +97,7 @@ The Below equipment tables are from the [FIST ULTRA EDITION](https://claymorerpg
 | 35\. | Assault rifle        | 1D6+1 DAMAGE | 65\. | Ultra-shotgun       | 2D6 DAMAGE   |
 | 36\. | Break-action shotgun | 1D6+1 DAMAGE | 66\. | FUBAR blaster       | 3D6 DAMAGE   |
 
-## **ARMOR**
+### **Armor**
 
 +-----+-------------------+---------------------+------+-------------------+---------+
 | 1\. | Civilian clothing | 0 ARMOR             | 7\.  | Standard fatigues | 0 ARMOR |
@@ -117,7 +117,7 @@ The Below equipment tables are from the [FIST ULTRA EDITION](https://claymorerpg
 | 6\. | Civilian clothing | 0 ARMOR             | 12\. | Power armor       | 2 ARMOR |
 +-----+-------------------+---------------------+------+-------------------+---------+
 
-## **VEHICLES**
+### **Vehicles**
 
 |  |  |  |  |  |  |
 |----|----|----|----|----|----|
@@ -140,7 +140,7 @@ The Below equipment tables are from the [FIST ULTRA EDITION](https://claymorerpg
 | 35\. | Light util. vehicle | 12 HP, 1 ARMOR | 65\. | Spaceship | 40 HP, 3 ARMOR |
 | 36\. | Civilian carrier | 12 HP, 1 ARMOR | 66\. | Battle mech | 40 HP, 4 ARMOR |
 
-## **VEHICLE WEAPONS**
+### **Vehicle weapons**
 
 +-----+---------------------------------+----------------------------+------+--------------------------+----------------------+
 | 1\. | None                            | NA                         | 7\.  | Front-mounted ram        | No crash self-damage |

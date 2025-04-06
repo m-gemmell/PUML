@@ -1,5 +1,5 @@
 ---
-title: "AQUEOUS ELIXIRS"
+title: "Aqueous elixirs"
 editor: 
   markdown: 
     wrap: sentence
@@ -15,14 +15,14 @@ When you choose the **Protean** **belief** gain the following benefits:
 
 -   **Flexible:** Gain **+1 LIMBS**
 -   **Unoriginal:** Gain **-1 NERVES**
--   __River:__ Gain a __FLOWING TRAIT__
+-   __River:__ Gain a __Flowing trait__
 
 Gain the below **Gear packs**
 
 - At start of mission choose a pack
 - At end of mission lose the pack
 
-## CAVALRY
+## Cavalry
 
 Mounted combatant
 
@@ -30,7 +30,7 @@ Mounted combatant
 - All-terrain single person vehicle (6HP, 1 ARMOR)
 - Helmet (1 DAMAGE, accessory)
 
-## DIVER
+## Diver
 
 Underwater combat
 
@@ -38,7 +38,7 @@ Underwater combat
 - Diver propulsion vehicle (DPV)
 - Heated diving suit with oxygen tank (1 ARMOR)
 
-## COVERT OPS
+## Covert ops
 
 Stealth & Evac
 
@@ -46,7 +46,7 @@ Stealth & Evac
 - Butterfly knife (1D6 DAMAGE)
 - Stealth scramble suit (1 use. Either scrambles the character’s identity, makes them look like a scanned target, or partially transparent)
 
-## SNIPER
+## Sniper
 
 Far-reaching patient hunter
 

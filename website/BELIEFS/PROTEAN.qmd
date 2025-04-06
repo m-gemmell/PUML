@@ -1,5 +1,5 @@
 ---
-title: "PROTEAN"
+title: "Protean"
 editor: 
   markdown: 
     wrap: sentence
@@ -17,7 +17,7 @@ When it is affected by others it will also leave its own mark. Beaches formed by
 
 Although easy going by nature it hates forced participation, loathing the order Gaia wishes to impose.
 
-## TENETS
+## Tenets
 
 - Flow like water to adapt
 - Allow others to shape you
@@ -26,17 +26,17 @@ Although easy going by nature it hates forced participation, loathing the order 
 
 Follow at least one of the below tenets to answer yes to the Primal dice mission reward question "Did you play to your belief?".
 
-## HOLY WATER
+## Holy water
 
 Holy water is extracted from the avatars of Proteus (Water Bodies). It is an illicit paranormal drug that allows the user to see the flow of time. This can be used by artists to allow a new outlook on life. It can also be used by athletes, fighters, and soldiers to give a reflexive advantage. However, an overdose of Holy water leads to the user turning into water.
 
-## PROTEANS
+## Proteans
 
 The followers of Proteus are called Proteans. Proteans can be found on the waters as sailors, water sports enthusiasts, and navy men. On the land they can be found as pharmaceutical workers, dealers and enjoyers of alcohol and drugs, snow sports enthusiasts, sanitation & transport workers, and firefighters.
 
 Their organisations tend to be smaller and collaborative. Proteans play well and you will regularly see them team up with other faction organisations.
 
-## WATER BODIES
+## Water bodies
 
 Water bodies are formed by the presence of Proteus. They freeze where they touch solid surfaces, allowing them to slide. Where they touch air they let off a low constant supply of steam.
 

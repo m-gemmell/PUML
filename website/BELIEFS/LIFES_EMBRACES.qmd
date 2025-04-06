@@ -1,5 +1,5 @@
 ---
-title: "LIFE'S EMBRACES"
+title: "Life's embraces"
 editor: 
   markdown: 
     wrap: sentence
@@ -15,14 +15,14 @@ When you choose the **Protean** **belief** gain the following benefits:
 
 -   **Charming:** Gain **+1 NERVES**
 -   **Dogmatic:** Gain **-1 LIMBS**
--   __Organ:__ Gain a __UNIFYING TRAIT__
+-   __Organ:__ Gain a __Unifying trait__
 
 Gain the below **Gear packs**
 
 - At start of mission choose a pack
 - At end of mission lose the pack
 
-## CHANCER
+## Chancer
 
 Gambler of life
 
@@ -30,7 +30,7 @@ Gambler of life
 - Cyanide pill & indistinguishable placebo pill
 - Life transfer glove (2 uses, 50/50 chance to give/steal 1D6 HP to/from an entity you’re touching)
 
-## COMBAT CHEF
+## Combat chef
 
 Food on the go
 
@@ -38,7 +38,7 @@ Food on the go
 - Outdoor cooking pack with 4 MREs (+1D6 HP)
 - Tactical clothing (1 ARMOR)
 
-## MORALE OFFICER
+## Morale officer
 
 Inspiring fighter
 
@@ -46,7 +46,7 @@ Inspiring fighter
 - 2 heart stickers (1 use, give another character +1D3 to their next action roll of choice)
 - Tactical clothing (1 ARMOR)
 
-## SPY
+## Spy
 
 Infiltration and Subterfuge
 

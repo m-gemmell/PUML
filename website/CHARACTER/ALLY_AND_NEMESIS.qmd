@@ -1,5 +1,5 @@
 ---
-title: "ALLY AND NEMESIS"
+title: "Ally and Nemesis"
 editor: 
   markdown: 
     wrap: sentence
@@ -20,9 +20,7 @@ Also feel free to use a below **ally** suggestion as a **nemesis** or vice versa
 
 Through play **PCs** may gain more **Allies** and/or **Nemeses** from the **NPCs** and **enemies** they interact with.
 
-Additionally, the
-
-## **ALLIES**
+## **Allies**
 
 -   **Academic:** A researcher with interest in something the player character does.
     Constantly asking questions but also very keen to answer any they can.
@@ -48,7 +46,7 @@ Additionally, the
 -   **The referee:** You know the referee of this game of **PUML**.
     Seems pretty powerful so there must be a catch.
 
-## **NEMESES**
+## **Nemeses**
 
 -   **Bounty hunter/detective:** You have a bounty on your head somewhere.
     This person is emotionally invested in catching you.

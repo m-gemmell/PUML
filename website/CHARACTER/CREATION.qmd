@@ -1,5 +1,5 @@
 ---
-title: "CREATION"
+title: "Creation"
 editor: 
   markdown: 
     wrap: sentence
@@ -8,45 +8,45 @@ editor:
 Below are the instructions for creating your character.
 There is more information for the different parts, including examples, on further pages.
 
-## STARTING STATS
+## Starting stats
 
 You start with:
 
 -   8 MAX HP
 -   0 for reach attribute
 
-## BELIEF
+## Belief
 
-Choose a [BELIEF](/BELIEFS/BELIEFS.qmd).
+Choose a [Belief](/BELIEFS/BELIEFS.qmd).
 
 Below are the beliefs available in these materials:
 
--   [SUN OF NYXMERA](/BELIEFS/SUN_OF_NYXMERA.qmd)
--   [DOTTER OF TARTARUS](/BELIEFS/DOTTER_OF_TARTARUS.qmd)
--   [PROTEAN](/BELIEFS/PROTEAN.qmd)
--   [GAIAN](/BELIEFS/GAIAN.qmd)
--   [POLYTHEIST](/BELIEFS/POLYTHEIST.qmd)
--   [APATHEIST](/BELIEFS/APATHEIST.qmd)
+-   [Sun of Nyxmera](/BELIEFS/SUN_OF_NYXMERA.qmd)
+-   [Dotter of Tartarus](/BELIEFS/DOTTER_OF_TARTARUS.qmd)
+-   [Protean](/BELIEFS/PROTEAN.qmd)
+-   [Gaian](/BELIEFS/GAIAN.qmd)
+-   [Polytheist](/BELIEFS/POLYTHEIST.qmd)
+-   [Apatheist](/BELIEFS/APATHEIST.qmd)
 
-## DAY JOB
+## Day job
 
 Choose a day job.
 
-## REWARD:
+## Reward:
 
 Choose 1:
 
 -   Gain +1D4 Max HP
 -   Gain 1D6 Primal dice
 
-## ALLY
+## Ally
 
 Create an NPC or choose an already created NPC who is your ally.
 This ally will always aim to help you with their skills and if they are available.
 
 The referee may have suggestions or a list of allies to choose from.
 
-## NEMESES
+## Nemeses
 
 Create an NPC or choose an already created NPC who counts you as a nemesis.
 This nemesis will try to foil you whenever they can.
@@ -61,7 +61,7 @@ If a player/group are new to role-playing games/the system/the referee's setting
 Once the player has a good idea in a subsequent system they may then make a nemesis.
 This can also be applied to a player's ally.
 
-## INFO
+## Info
 
 A brief description of your character
 
@@ -70,6 +70,6 @@ A brief description of your character
 -   Fashion style
 -   Choose one favourite piece of media. E.g. movie, book, album, sports league etc (real or made-up)
 
-## CODENAME
+## Codename
 
 Choose a codename

@@ -1,5 +1,5 @@
 ---
-title: "POLYTHEIST"
+title: "Polytheist"
 editor: 
   markdown: 
     wrap: sentence
@@ -16,7 +16,7 @@ Polytheists are rare.
 Even rarer are the few who who have been blessed by all four deities, like you.
 Many see you as a religious leader.
 
-## TENETS
+## Tenets
 
 - Strive for unification
 - Observe and sow intrigue

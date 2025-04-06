@@ -15,17 +15,17 @@ website:
     collapse-below: lg
 ###Navbar left
     left:
-      - text: "INTRO"
+      - text: "Intro"
         href: index.qmd
-      - text: "RULES"
+      - text: "Rules"
         href: RULES/NARRATION_AND_ROLLS.qmd
-      - text: "CHARACTER"
+      - text: "Character"
         href: CHARACTER/CREATION.qmd
-      - text: "BELIEFS"
+      - text: "Beliefs"
         href: BELIEFS/BELIEFS.qmd
-      - text: "REFEREE"
+      - text: "Referee"
         href: REFEREE/REFEREE.qmd
-      - text: "RESOURCES"
+      - text: "Resources"
         href: RESOURCES/RESOURCES.qmd
       
 ###Navbar right
@@ -47,16 +47,16 @@ website:
       [![](/images/FIST_compatibility_mark_cropped.png){fig-alt="FIST" height=40px}](https://claymorerpgs.itch.io/fist)
 ##Sidebar
   sidebar:
-    - id: INTRO
-      title: "INTRO"
+    - id: Intro
+      title: "Intro"
       style: "floating"
       align: left
       contents:
         - href: index.qmd
         - href: INTRO/CREDITS.qmd
         - href: INTRO/FIST_COMPATIBILITY.qmd
-    - id: RULES
-      title: "RULES"
+    - id: Rules
+      title: "Rules"
       style: "floating"
       align: left
       contents:
@@ -66,50 +66,50 @@ website:
         - href: RULES/EQUIPMENT.qmd
         - href: RULES/REST_DEATH_AND_FREEDOM.qmd
         - href: RULES/MISSION_END.qmd
-    - id: CHARACTER
-      title: "CHARACTER"
+    - id: Character
+      title: "Character"
       style: "floating"
       align: left
       contents:
         - href: CHARACTER/CREATION.qmd
         - href: CHARACTER/DAY_JOB.qmd
         - href: CHARACTER/ALLY_AND_NEMESIS.qmd
-    - id: BELIEFS
-      title: "BELIEFS"
+    - id: Beliefs
+      title: "Beliefs"
       style: "floating"
       align: left
       contents:
         - href: BELIEFS/BELIEFS.qmd
-        - section: "SUN OF NYXMERA"
+        - section: "Sun of Nyxmera"
           contents:
           - href: BELIEFS/SUN_OF_NYXMERA.qmd
           - href: BELIEFS/CELESTIAL_PRIVILEGES.qmd
           - href: BELIEFS/COSMIC_TRAITS.qmd
-        - section: "DOTTER OF TARTARUS"
+        - section: "Dotter of Tartarus"
           contents:
           - href: BELIEFS/DOTTER_OF_TARTARUS.qmd
           - href: BELIEFS/PRECIOUS_MINERALS.qmd
           - href: BELIEFS/GROUNDED_TRAITS.qmd
-        - section: "PROTEAN"
+        - section: "Protean"
           contents:
           - href: BELIEFS/PROTEAN.qmd
           - href: BELIEFS/AQUEOUS_ELIXIRS.qmd
           - href: BELIEFS/FLOWING_TRAITS.qmd
-        - section: "GAIAN"
+        - section: "Gaian"
           contents:
           - href: BELIEFS/GAIAN.qmd
           - href: BELIEFS/LIFES_EMBRACES.qmd
           - href: BELIEFS/UNIFYING_TRAITS.qmd
-        - section: "POLYTHEIST"
+        - section: "Polytheist"
           contents:
           - href: BELIEFS/POLYTHEIST.qmd
           - href: BELIEFS/PANTHEONIC_BLESSINGS.qmd
-        - section: "APATHEIST"
+        - section: "Apatheist"
           contents:
           - href: BELIEFS/APATHEIST.qmd
           - href: BELIEFS/SELF_ACTUALISATIONS.qmd
-    - id: REFEREE
-      title: "REFEREE"
+    - id: Referee
+      title: "Referee"
       style: "floating"
       align: left
       contents:
@@ -117,8 +117,8 @@ website:
         - href: REFEREE/BOSSES.qmd
         - href: REFEREE/ALLIES_AND_NEMESES.qmd
         - href: REFEREE/CHARACTER_STAT_BLOCKS.qmd
-    - id: RESOURCES
-      title: "RESOURCES"
+    - id: Resources
+      title: "Resources"
       style: "floating"
       align: left
       contents:

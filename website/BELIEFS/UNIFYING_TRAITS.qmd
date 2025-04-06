@@ -1,11 +1,11 @@
 ---
-title: "UNIFYING TRAITS"
+title: "Unifying traits"
 editor: 
   markdown: 
     wrap: sentence
 ---
 
-## **COPY-AND-PASTE** 
+## **Copy-and-paste** 
 
 You have multiple lives.
 For every **3 max HP** you have you have **1 Respawn** (**10 HP** would be **4 Respawns**).
@@ -21,7 +21,7 @@ Additionally, gain **+4 max HP**.
 
 Revolver (1D6+1 DAMAGE) & **+1 JAWS**
 
-## **ETTIN** 
+## **Ettin** 
 
 You have 2 heads.
 Whilst you have at least one head you will survive.
@@ -34,7 +34,7 @@ Whilst you only have one head you gain **+1 JAWS**, **+1 LIMBS**, **-2 EYES,** a
 
 Telescopic goggles and Bolt-action rifle (1d6+1 DAMAGE) & **+2 NERVES**
 
-## **MICROBIOTA CONTROL** 
+## **Microbiota control** 
 
 You are able to somewhat control the microbiota on and in your body (bacteria, archaea, & fungi).
 You can medicate yourself and are immune to ingested poisons.
@@ -44,7 +44,7 @@ This lasts as long as you both share the same air or till the end of the current
 
 Microbiology kit & **+1 NERVES**
 
-## **OVERGROWN** 
+## **Overgrown** 
 
 You are covered in ivy and various other plants.
 These plants are connected to you feeding off your nutrients as it shares its energy with you in a symbiotic relationship.
@@ -56,7 +56,7 @@ You may use the plants in various ways including as camouflage and using the ivy
 
 Machete (1D6 DAMAGE) & **+1 NERVES**
 
-## **POLYGLOT** 
+## **Polyglot** 
 
 You are fluent in the reading, writing, and speaking of 3 times your **NERVES** attribute additional languages.
 You can also understand all other languages to a limited degree.
@@ -65,7 +65,7 @@ If you use a multi syllable word the referee may give you a complication.
 
 Remote covert listening device and headphone & **+2 EYES**
 
-## **SUITED-CREATURE** 
+## **Suited-creature** 
 
 You are a small sentient living entity in a humanoid sized and shaped suit.
 You could be a worm in a suit from the gods, a little alien in a human robot, a goldfish in a fishbowl as the head of an iron golem etc.

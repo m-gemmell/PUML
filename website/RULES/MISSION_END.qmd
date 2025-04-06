@@ -1,5 +1,5 @@
 ---
-title: "MISSION END"
+title: "Mission end"
 editor: 
   markdown: 
     wrap: sentence
@@ -9,19 +9,19 @@ At the end of a mission players gain **XP**, **level up rewards**, **Primal dice
 
 ## **XP**
 
-At the end of a mission each **PC** that joined the mission gains XP. 
+At the end of a mission each **PC** that joined the mission gains XP.
 
-Characters start at **Level 0** and must gain **XP** equal to their next **Level** to **Level up**. 
+Characters start at **Level 0** and must gain **XP** equal to their next **Level** to **Level up**.
 
 -   To get to **Level 1** they need a total of **1 XP**
 
 -   To get to **Level 2** they need **2** **more XP** (**3 total XP**)
 
--   To get to **Level 3** they need **3 more XP** (**6 total XP**) 
+-   To get to **Level 3** they need **3 more XP** (**6 total XP**)
 
 -   Etc.
 
-## **LEVEL UP REWARD**
+## **Level up reward**
 
 When a **PC Levels up** they gain **+2 max HP** and **choose one** of the following **rewards**:
 
@@ -36,7 +36,7 @@ When a **PC Levels up** they gain **+2 max HP** and **choose one** of the follow
 
 -   Gain **1D6 Primal Dice**
 
-## **PRIMAL DICE MISSION REWARD**
+## **Primal dice mission reward**
 
 At the end of a mission the **Referee** asks each player the following questions:
 
@@ -54,7 +54,7 @@ It is the final decision of the **Referee** if the reason is valid.
 
 The **PC** gains **1 Primal Dice** with **1-2 valid yeses** and **2 Primal Dice** with **3-4 valid yeses**.
 
-## **REPLENISH RESOURCES**
+## **Replenish resources**
 
 At mission end each **PC** replenishes their resources.
 This includes:
@@ -63,10 +63,10 @@ This includes:
 
 -   Regaining any **lost** or **broken items/Equipment** gained from their **traits**
 
--   **Regaining uses of Traits**
+-   Regaining uses of **Traits**
 
 The following are lost:
 
--   **Trait items/Equipment given to them by another PC**
+-   **Trait items/Equipment** given to them by another PC
 
--   **Any and all items/Equipment gained from a Gear pack**
+-   Any and all **items/Equipment** gained from a **Gear pack**

@@ -1,5 +1,5 @@
 ---
-title: "APATHEIST"
+title: "Apatheist"
 editor: 
   markdown: 
     wrap: sentence
@@ -7,7 +7,7 @@ editor:
 
 Although you know the deities exist you find no point in worshipping or worrying about them. You believe they do not care about you. You find meaning in yourself.
 
-## TENETS
+## Tenets
 
 - You have one life and body, cherish it
 - Only take from others what they can afford to lose or take for granted

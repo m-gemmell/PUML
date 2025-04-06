@@ -1,5 +1,5 @@
 ---
-title: "DOTTER OF TARTARUS"
+title: "Dotter of Tartarus"
 editor: 
   markdown: 
     wrap: sentence
@@ -20,7 +20,7 @@ Whilst Nyxmera only shows apathy towards its prisoner, fueling Tartarus’ bottl
 Tartarus’ logo represents Tartarus' power cracking through the scorched earth.
 It wants to unleash its power with no concern for others.
 
-## TENETS
+## Tenets
 
 - Unleash your power!
 - Never imprison!
@@ -29,7 +29,7 @@ It wants to unleash its power with no concern for others.
 
 Follow at least one of the below tenets to answer yes to the Primal dice mission reward question "Did you play to your belief?".
 
-## **THE DOT**
+## **The Dot**
 
 The greatest presence of Tartarus is felt underground where Nyxmera cannot see with its eyes.
 Here you may find a deep black hole, known as a Jaw of Tartarus.
@@ -45,7 +45,7 @@ This has led to mutated humans and creatures due to the combination of radiation
 They mostly stay contained in the DOT but occasionally cause havoc on the surface.
 Currently Kaiju reign over Japan after the 2 nuclear bombings in WWII.
 
-## **DOTTER OF TARTARUS**
+## **Dotter of Tartarus**
 
 Dotters of Tartarus come in 2 main flavours, the surface dwellers and the DOT dwellers.
 Surface Dotters live within society as fighters, miners, oil workers, seismologists, and spelunkers.
@@ -58,7 +58,7 @@ There is a dark side to Tartarus and its Dotters, greed.
 This greed manifests through ruthless capitalism, raids of the surface, destruction of ecology, and prison breaks.
 Might makes right for Dotters and although they won’t ever imprison anyone, they are not so afraid to use coercion or murder.
 
-## **TALOES**
+## **Taloes**
 
 Taloes (singular = Talos) of Tartarus are animated beings made from the bounties of Tartarus.
 They generally consist of local resources.

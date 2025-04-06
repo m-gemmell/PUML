@@ -1,11 +1,11 @@
 ---
-title: "FLOWING TRAITS"
+title: "Flowing traits"
 editor: 
   markdown: 
     wrap: sentence
 ---
 
-## **CHAKRAM PORTALS** 
+## **Chakram portals** 
 
 You have 2 plate sized chakrams that are bonded to you.
 They each have one perpetual portal as the hole.
@@ -15,7 +15,7 @@ One portal is connected to the other.
 
 Two portal chakrams (1D6+1 DAMAGE) & **+1 EYES**
 
-## **COMPOSITE** 
+## **Composite** 
 
 You can remove parts of your body.
 They act as if they are attached, fully under your control.
@@ -24,7 +24,7 @@ Only you can remove and reattach these body parts.
 
 Box of surgical tape & **+1 LIMBS**
 
-## **COPYCAT**
+## **Copycat**
 
 **Once per mission** upon touching someone you can copy one of their abilities.
 This can be the main text of a **PC’s** trait (excluding item, attributes, etc.).
@@ -33,7 +33,7 @@ You keep this ability until the end of the current mission.
 
 Ability scanning eyewear (2 uses) & **-1 NERVES**
 
-## **LIMBLESS** 
+## **Limbless** 
 
 You have no limbs or neck.
 Instead your hands, feet, and head float.
@@ -45,7 +45,7 @@ The extremity becomes detached and you will need to pick it up and bond it to yo
 
 Leather Spiked cap, gloves, and shoes (1D6 DAMAGE) & **-1 JAWS**
 
-## **NANOSUIT** 
+## **Nanosuit** 
 
 You wear a skin tight nanosuit with nanobots flowing through your circulatory system.
 Your nanosuit has **6 max charges**.
@@ -66,7 +66,7 @@ You may use a **Level up reward** to gain **+6 max charges.**
 
 Nanosuit (1 ARMOR, accessory, armor and headgear can be worn on top) & **+3HP**
 
-## **TRANSFORMER** 
+## **Transformer** 
 
 **Once per mission** you can turn into a sentient vehicle.
 You can choose a vehicle with a HP value up to 8.
