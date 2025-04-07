@@ -1,5 +1,5 @@
 ---
-title: "REFEREE"
+title: "Referee"
 editor: 
   markdown: 
     wrap: sentence

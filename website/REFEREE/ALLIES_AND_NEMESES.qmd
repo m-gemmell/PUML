@@ -1,5 +1,5 @@
 ---
-title: "ALLIES & NEMESES"
+title: "Allies & Nemeses"
 editor: 
   markdown: 
     wrap: sentence
@@ -21,7 +21,6 @@ The **Nemesis** does not need to directly interfere in a mission, they could sen
 Don’t be afraid to have cutaway scenes showing a **Nemesis** in their lair mistreating their minions, spouting evil monologues, or scheming with other **Nemeses**.
 Use the Nemeses as you see fit incorporating suggestions from the players.
 
-\
 If this seems like a lot then take things slow.
 I like to run a few adventures and see how the characters develop.
 Then as inspiration hits I incorporate the **PCs**, **Allies**, and **Nemeses** into the campaign plans.

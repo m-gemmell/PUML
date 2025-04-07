@@ -1,15 +1,15 @@
 ---
-title: "RESOURCES"
+title: "Resources"
 editor: 
   markdown: 
     wrap: sentence
 ---
 
-## PRINTABLE SHEETS
+## Printable sheets
 
 - [CHARACTER SHEET](./PUML_character_sheet.pdf)
 - [COMBAT TRACKER](./PUML_combat_tracker.pdf)
 
-## WEBSITES
+## Websites
 
 - [PRIMEVAL DEITIES](https://m-gemmell.github.io/PRIMEVAL_DEITIES/): Faction information of the Primeval deities for the PUML RPG.

@@ -1,5 +1,5 @@
 ---
-title: "CHARACTER STAT BLOCKS"
+title: "Stat blocks"
 editor: 
   markdown: 
     wrap: sentence
@@ -8,7 +8,7 @@ editor:
 You can use the **Enemy attributes** table to help create your own stat blocks.
 There is a lot of guidance on creating stat blocks in the intelligence matrix of **FIST Ultra edition**.
 
-There are many examples of stat blocks on the [PRIMEVAL DEITIES website](https://m-gemmell.github.io/PRIMEVAL_DEITIES/)
+There are many examples of stat blocks on the [Primeval deities website](https://m-gemmell.github.io/PRIMEVAL_DEITIES/)
 
 |  |  |  |  |  |  |
 |------------|------------|------------|------------|------------|------------|
