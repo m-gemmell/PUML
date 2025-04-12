@@ -5,13 +5,13 @@ editor:
     wrap: sentence
 ---
 
-If the player team decides to infiltrate a location by stealth, subterfuge, or some other means you can use a tracker measure the alertness of the base and its occupants.
+If the player team decides to infiltrate a location by stealth, subterfuge, or some other means you can use a tracker to measure the alertness of the base and its occupants.
 
 A tracker, also known as a [progress clock](https://bladesinthedark.com/progress-clocks), consists of X amount of spaces where something will occur once all the spaces have been filled.
 
 ## Alert level
 
-The three levels of suggested alertness are; Unaware, Suspicious, and Alert (USA).
+The three levels of suggested alertness are: Unaware, Suspicious, and Alert (USA).
 
 ### Unaware
 
@@ -21,45 +21,67 @@ The occupants are completely unaware of the infiltration.
 
 The occupants have noticed strange things and are more alert than usual.
 
-Whilst suspicious guards/occupants will be more discerning. They will:
+Suspicious guards/occupants are more discerning.
+They will:
 
-- More thoroughly investigate noises and possible glimpses of infiltrators.
-- Ask for and investigate documents & key cards.
-- Not be tricked as easily and are likely to phone their superiors to ensure everything is in order
-- Their will be more frequent patrols with higher numbers of guards
-- They will have any and all security systems in place
+-   More thoroughly investigate noises and possible glimpses of infiltrators
+-   Ask for and investigate documents & key cards
+-   Not be tricked as easily and are likely to phone their superiors to ensure everything is in order
+-   More frequently patrol with higher numbers of guards
+-   Have any and all security systems activated
 
 ### Alert
 
 The occupants are fully aware that infiltrators are in the base.
 This includes:
 
-- Actively seeking out the infiltrators
-- Shooting first and ask questions later
-- Calling in reinforcements
-- All lock down and security systems to be activate
-- Incredibly unlikely to trick guards
+-   Actively seeking out the infiltrators
+-   Shooting first and asking questions later
+-   Calling in reinforcements
+-   All lock down and security systems to be activated
+-   Incredibly unlikely to trick guards
 
 ## Alert tracker
 
 When the infiltration mission starts create a tracker for the **unaware level** and the **suspicious level**.
 I suggest having half as many spaces in the **suspicious level** as the **unaware level**.
 
+### Tracker filling
+
+When the **unaware tracker** is fully marked move the **alert level** to **suspicious**.
+When the **suspicious tracker** is fully marked move the **alert level** to **alert**.
+
+The tracker is filled in 3 ways:
+
+1.  **Action rolls:** Whilst infiltrating and any character performs a non-combat action roll fill in spaces by the outcome.
+    -   **Partial success:** Mark 1 space on the tracker.
+    -   **Failure:** Mark 2 spaces on the current tracker.
+
+<!-- -->
+
+2.  **Combat:** If full on combat breaks out add X marks to the current tracker each Phase.
+    X is equal to the current **combat round**.
+
+3.  **Referee fiat:** If, as the referee, you feel a player action or its consequence should mark off a space or even move straight to the **alert level** then by all means do.
+    Ensure you are being fair and explain to the players why this has happened.
+
+**Note:** If you have excess spaces to fill when a tracker is completely filled, lose any excess marks.
+
 ### Infiltration difficulty
 
-The difficulty of the infiltration determines the amount of spaces on the __alert trackers__.
+The difficulty of the infiltration determines the amount of spaces on the **alert trackers**.
 
 The difficulty is determined by various factors including:
 
-- How well defended the base is.
-- How suspicious the occupants are beforehand. 
-  - Is this the first infiltration on the base or its faction?
-  - Are the team robbing a bank after having robbed a bunch of other banks.
-  - Do the enemies have some sort of surveillance on the team?
-- Difficulty can be decreased by sufficient preplanning.
-  - Have the team hacked the base's security system?
-  - Do they have an inside man?
-  - Have the team orchestrated a distratcion at a different location occurring at the same time?
+-   How well defended the base is
+-   How suspicious the occupants are beforehand
+    -   Is this the first infiltration on the base or its faction?
+    -   Are the team robbing a bank after having robbed a bunch of other banks?
+    -   Do the enemies have some sort of surveillance on the team?
+-   Difficulty can be decreased by sufficient preplanning
+    -   Have the team hacked the base's security system?
+    -   Do they have an inside man?
+    -   Have the team orchestrated a distraction at a different location occurring at the same time?
 
 Suggested amounts of spaces are below:
 
@@ -70,32 +92,12 @@ Suggested amounts of spaces are below:
 | Heroic     | 4       | 2          |
 | Legendary  | 2       | 1          |
 
-### Tracker filling
-
-When the **unaware tracker** is fully marked move the **alert level** to **suspicious**.
-When the **suspicious tracker** is fully marked move the **alert level** to **alert**.
-
-The tracker is filled in 3 ways:
-
-1.  **Action rolls:** Whilst infiltrating and any character performs a non-combat action roll fill in spaces by the outcome.
-
--   **Partial success:** Mark 1 space on the tracker.
--   **Failure:** Mark 2 spaces on the current tracker.
-
-2.  **Combat:** If full on combat breaks out add X marks to the current tracker each Phase.
-    X is equal to the current **combat round**.
-
-3.  **Referee fiat:** If, as the referee, you feel a player action or its consequence should mark of a space or even move straight to the **alert level** then by all means do.
-    Ensure you are being fair and explain to the players why this has happened.
-
-**Note:** If you have excess spaces to fill when a tracker is completely filled, lose any excess marks.
-
 ## Reducing alarm
 
 If the players have a good idea and execution you can allow them to remove marks off the current alarm tracker or even possibly reduce the alarm level.
 
 Examples include:
 
-- Force security to declare a false alarm
-- Trick guards to leave the facility & investigate somewhere else
-- Allow one or more members to be caught and trick security into thinking they have caught everyone
+-   Force security to declare a false alarm
+-   Trick guards to leave the facility & investigate somewhere else
+-   Allow one or more members to be caught and trick security into thinking they have caught everyone
