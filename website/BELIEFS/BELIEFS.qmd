@@ -9,7 +9,7 @@ Beliefs are akin to classes in other TTRPGs.
 Six are included in these materials:
 
 - [Sun of Nyxmera](/BELIEFS/SUN_OF_NYXMERA.qmd): Observation, duality, & manipulation.
-- [Dotter of Tartarus](/BELIEFS/DOTTERS_OF_TARTARUS.qmd): Power, destruction, and liberation.
+- [Dotter of Tartarus](/BELIEFS/DOTTER_OF_TARTARUS.qmd): Power, destruction, and liberation.
 - [Protean](/BELIEFS/PROTEAN.qmd): Flow, flexibility, and perseverance.
 - [Gaian](/BELIEFS/GAIAN.qmd): Unify, lead, and emotive.
 - [Polytheist](/BELIEFS/POLYTHEIST.qmd): Follower and chosen by the four Primeval deities.

@@ -114,6 +114,7 @@ website:
       align: left
       contents:
         - href: REFEREE/REFEREE.qmd
+        - href: REFEREE/COMPLICATIONS.qmd
         - href: REFEREE/INFILTRATION.qmd
         - href: REFEREE/ALLIES_AND_NEMESES.qmd
         - section: NPCs
