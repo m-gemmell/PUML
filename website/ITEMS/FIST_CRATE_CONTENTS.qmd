@@ -1,0 +1,15 @@
+# FIST Crate contents
+
+2D6 table
+
+2. Artifacts (1D6 pieces)
+3. Chemicals (1D6 types, e.g. tear gas, cleaner, etc.)
+4. Armor (1D6 pieces, roll on Armor)
+5. Uniforms (Standard, or 1-in-1D6: High-ranking)
+6. Rations (2D6 MREs, +1D6 HP)
+7. Ammunition (1D6 types, e.g. bullets, rockets, etc.)
+8. Medical supplies (1D6 medkits, +1D6+TAC HP)
+9. Weapons (1D6 weapons, roll on Weapons, p. 83)
+10. Machine parts (2D6 usable parts)
+11. Explosives (2D6 small or 1D6 large)
+12. Documents (classified, answer 1D6 questions)

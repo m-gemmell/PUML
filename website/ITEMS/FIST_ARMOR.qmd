@@ -1,0 +1,12 @@
+# FIST Armor
+
+D12 table of armor
+
+|     |                   |                           |      |                   |         |
+|---|----------|------------------|----|-----------|------------|
+| 1\. | Civilian clothing | 0 ARMOR                   | 7\.  | Standard fatigues | 0 ARMOR |
+| 2\. | Combat shield     | 0 ARMOR (accessory)       | 8\.  | Tactical clothing | 1 ARMOR |
+| 3\. | Riot shield       | 1 ARMOR (equip as weapon) | 9\.  | Bulletproof vest  | 1 ARMOR |
+| 4\. | Heavy riot shield | 2 ARMOR (equip as weapon) | 10\. | Exoskeleton frame | 1 ARMOR |
+| 5\. | Helmet            | (accessory)               | 11\. | Ceramic plate     | 2 ARMOR |
+| 6\. | Civilian clothing | 0 ARMOR                   | 12\. | Power armor       | 2 ARMOR |

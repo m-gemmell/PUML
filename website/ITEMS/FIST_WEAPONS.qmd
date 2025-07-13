@@ -1,0 +1,24 @@
+# FIST Weapons
+
+D66 table of weapons
+
+|      |                      |              |      |                     |              |
+|----|------------|------------|----|------------|------------|
+| 11\. | Small blunt          | 3 DAMAGE     | 41\. | Pump-action shotgun | 1D6+1 DAMAGE |
+| 12\. | Large blunt          | 1D6 DAMAGE   | 42\. | Light machine gun   | 1D6+1 DAMAGE |
+| 13\. | Small blade          | 3 DAMAGE     | 43\. | Sword               | 1D6+1 DAMAGE |
+| 14\. | Large blade          | 1D6 DAMAGE   | 44\. | Spear               | 1D6+1 DAMAGE |
+| 15\. | Light hand           | 3 DAMAGE     | 45\. | Large Axe           | 1D6+1 DAMAGE |
+| 16\. | Heavy hand           | 1D6 DAMAGE   | 46\. | Large hammer        | 1D6+1 DAMAGE |
+| 21\. | Small ranged         | 3 DAMAGE     | 51\. | Sniper rifle        | 1D6+2 DAMAGE |
+| 22\. | Whip                 | 1D6 DAMAGE   | 52\. | Rocket launcher     | 1D6+2 DAMAGE |
+| 23\. | Bow                  | 1D6 DAMAGE   | 53\. | Heavy machine gun   | 1D6+2 DAMAGE |
+| 24\. | Pistol               | 1D6 DAMAGE   | 54\. | Heavy misc.         | 1D6+2 DAMAGE |
+| 25\. | Machine pistol       | 1D6 DAMAGE   | 55\. | Energy blade        | 1D6+2 DAMAGE |
+| 26\. | Submachine gun       | 1D6 DAMAGE   | 56\. | Concussion grenade  | 1D6 DAMAGE   |
+| 31\. | Carbine              | 1D6 DAMAGE   | 61\. | Frag grenade        | 1D6+1 DAMAGE |
+| 32\. | Hand cannon          | 1D6+1 DAMAGE | 62\. | Small bomb          | 1D6+2 DAMAGE |
+| 33\. | Bolt-action rifle    | 1D6+1 DAMAGE | 63\. | Large bomb          | 2D6 DAMAGE   |
+| 34\. | Semi-automatic rifle | 1D6+1 DAMAGE | 64\. | Anomalous weapon    | 2D6 DAMAGE   |
+| 35\. | Assault rifle        | 1D6+1 DAMAGE | 65\. | Ultra-shotgun       | 2D6 DAMAGE   |
+| 36\. | Break-action shotgun | 1D6+1 DAMAGE | 66\. | FUBAR blaster       | 3D6 DAMAGE   |

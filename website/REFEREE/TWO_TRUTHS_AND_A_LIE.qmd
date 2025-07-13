@@ -1,0 +1,30 @@
+# Two truths and a lie
+
+When a PC gathers information/intel a great way to implement an implication is to provide them with true facts and false information.
+The classic is two truths and a lie but equally you can give other combinations such as one truth and one lie or one truth and two lies based on the situation and what you can think of.
+
+Most of the time you will let the players know how many truths and lies you are giving.
+This represents the PCs knowing how reliable the intel they have gathered is.
+However, if the situation calls for it you do not need to say if their are truths and lies.
+
+A truth should not directly counteract a lie in the one set of intel.
+In other words try not to have a truth of "Turkeys are weak against acid" and a lie of "Turkeys are strong against acid".
+Instead set the truths and lies so the PCs can determine the truths with further investigation and exploration. 
+
+Examples of two truths and a lie are below.
+
+## Creature research
+
+The PCs know they are up against a [Vampire](https://m-gemmell.github.io/PRIMEVAL_DEITIES/Tartarus/Keystones.html#VAMPORE). A PC uses an __Action turn__ to goes to a library to research myths them on. With a partial success they are able to gather fairly reliable intel knowing they were given 2 truths and a lie.
+
+- __True__: Vampires come about from the fusion of a Vampore, a blood thirsty lump of iron ore, and a power hungry human.
+- __True__: Vampires are weak against the light of the sun and moons.
+- __False__: Vampires are weak to magnets due to their iron heart (The truth is they have magnetic powers).
+
+## Base intel
+
+The PCs are going to infiltrate a base and want to know more about its security systems. They use an __action turn__ to call in a favour from an ally who sends them three pieces of intel.  However, with a partial success one of the PC's nemesis intercepted the request and was able to change one of truths to a lie. In this case the referee does not tell the Players their are any truths and lies.
+
+- __True__: The [Kraken security guards](https://m-gemmell.github.io/PRIMEVAL_DEITIES/Tartarus/Kraken.html) patrol in pairs. Each member of a pair has half a key card, with both halves required to get past security doors.
+- __True__: The security cameras are based on infrared vision.
+- __False__: The password to the security system is "taratrusiscool123" . This is false and if entered will cause a base lockdown.

@@ -364,5 +364,35 @@
   },
   "REFEREE/COMPLICATIONS.qmd": {
     "COMPLICATIONS.html": "c65debdd"
+  },
+  "REFEREE/TROLLEY_PROBLEM.qmd": {
+    "TROLLEY_PROBLEM.html": "87e5e246"
+  },
+  "REFEREE/TWO_TRUTHS_AND_A_LIE.qmd": {
+    "TWO_TRUTHS_AND_A_LIE.html": "064af83b"
+  },
+  "REFEREE/FIST_PARTIAL_SUCCESSES.qmd": {
+    "FIST_PARTIAL_SUCCESSES.html": "9f8c7ead"
+  },
+  "ITEMS/ITEMS.qmd": {
+    "ITEMS.html": "1ed26c5c"
+  },
+  "ITEMS/FIST_WEAPONS.qmd": {
+    "FIST_WEAPONS.html": "a0e87e7f"
+  },
+  "ITEMS/FIST_ARMOR.qmd": {
+    "FIST_ARMOR.html": "6f0c9c30"
+  },
+  "ITEMS/FIST_VEHICLES.qmd": {
+    "FIST_VEHICLES.html": "6b265edc"
+  },
+  "ITEMS/FIST_VEHICLE_WEAPONS.qmd": {
+    "FIST_VEHICLE_WEAPONS.html": "16b56470"
+  },
+  "ITEMS/FIST_WEAPON_TAGS.qmd": {
+    "FIST_WEAPON_TAGS.html": "5b3a546e"
+  },
+  "ITEMS/FIST_CRATE_CONTENTS.qmd": {
+    "FIST_CRATE_CONTENTS.html": "34633953"
   }
 }

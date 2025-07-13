@@ -1,0 +1,6 @@
+# Items
+
+On top of the items gained from traits and gear packs the PCs may find various items in the world.
+This section contains information on these various items.
+
+- [FIST intelligence](): Tables from the FIST: Ultra Edition Intelligence matrix.

@@ -60,7 +60,7 @@ These include:
 - Going with the flow
 - Water powers
 
-## BRAIN
+## NERVES
 <center>
 ![](images/nerves_attribute_final.png){style="width:200px"}
 </center>

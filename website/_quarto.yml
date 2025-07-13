@@ -23,6 +23,8 @@ website:
         href: CHARACTER/CREATION.qmd
       - text: "Beliefs"
         href: BELIEFS/BELIEFS.qmd
+      - text: "Items"
+        href: ITEMS/ITEMS.qmd
       - text: "Referee"
         href: REFEREE/REFEREE.qmd
       - text: "Resources"
@@ -108,13 +110,32 @@ website:
           contents:
           - href: BELIEFS/APATHEIST.qmd
           - href: BELIEFS/SELF_ACTUALISATIONS.qmd
+    - id: Items
+      title: "Items"
+      style: "floating"
+      align: left
+      contents:
+        - href: ITEMS/ITEMS.qmd
+        - section: "FIST Intelligence"
+          contents:
+          - href: ITEMS/FIST_WEAPONS.qmd
+          - href: ITEMS/FIST_WEAPON_TAGS.qmd
+          - href: ITEMS/FIST_ARMOR.qmd
+          - href: ITEMS/FIST_VEHICLES.qmd
+          - href: ITEMS/FIST_VEHICLE_WEAPONS.qmd
+          - href: ITEMS/FIST_CRATE_CONTENTS.qmd
     - id: Referee
       title: "Referee"
       style: "floating"
       align: left
       contents:
         - href: REFEREE/REFEREE.qmd
-        - href: REFEREE/COMPLICATIONS.qmd
+        - section: "Complications"
+          contents:
+          - href: REFEREE/COMPLICATIONS.qmd
+          - href: REFEREE/TROLLEY_PROBLEM.qmd
+          - href: REFEREE/TWO_TRUTHS_AND_A_LIE.qmd
+          - href: REFEREE/FIST_PARTIAL_SUCCESSES.qmd
         - href: REFEREE/INFILTRATION.qmd
         - href: REFEREE/ALLIES_AND_NEMESES.qmd
         - section: NPCs

@@ -6,7 +6,7 @@ editor:
 ---
 
 **Combat** occurs when 2 or more forces are trying to harm each other.
-PCs only are in **Combat** and can take **combat actions** if they fulfill the two conditions:
+PCs only are in **Combat** and can take **combat actions** if they fulfil the two conditions:
 
 1.  They are in the **combat** zone
 
